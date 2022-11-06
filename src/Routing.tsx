@@ -34,13 +34,13 @@ export default function Routing() {
           <HomeIcon className='h-5 w-5' />
           <span className='btm-nav-label'>{t('Home')}</span>
         </Link>
-        <Link to='settings' getActiveProps={getActiveProps}>
-          <SettingsIcon className='h-5 w-5' />
-          <span className='btm-nav-label'>{t('Settings')}</span>
-        </Link>
         <Link to='browse' getActiveProps={getActiveProps}>
           <BrowseIcon className='h-5 w-5' />
           <span className='btm-nav-label'>{t('Browse')}</span>
+        </Link>
+        <Link to='settings' getActiveProps={getActiveProps}>
+          <SettingsIcon className='h-5 w-5' />
+          <span className='btm-nav-label'>{t('Settings')}</span>
         </Link>
       </div>
     </Router>
