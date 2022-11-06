@@ -1,13 +1,18 @@
 import { Link, Outlet, ReactLocation, Router } from '@tanstack/react-location';
 import { useTranslation } from 'react-i18next';
+import { ReactComponent as SettingsIcon } from './assets/svg/cog-6-tooth.svg';
+import { ReactComponent as HomeIcon } from './assets/svg/home.svg';
 import Home from './containers/home/Home';
 import Settings from './containers/settings/Settings';
 
 // Set up a ReactLocation instance
 const location = new ReactLocation();
 
+const getActiveProps = () => ({ className: 'active' });
+
 export default function Routing() {
   const { t } = useTranslation();
+
   return (
     <Router
       location={location}
@@ -16,14 +21,21 @@ export default function Routing() {
         { path: 'settings', element: <Settings /> },
       ]}
     >
-      <div>
-        <Link to='/' activeOptions={{ exact: true }}>
-          {t('Home')}
+      <Outlet />
+      <div className='btm-nav'>
+        <Link
+          to='/'
+          activeOptions={{ exact: true }}
+          getActiveProps={getActiveProps}
+        >
+          <HomeIcon className='h-5 w-5' />
+          <span className='btm-nav-label'>{t('Home')}</span>
         </Link>
-        <Link to='settings'>{t('Settings')}</Link>
+        <Link to='settings' getActiveProps={getActiveProps}>
+          <SettingsIcon className='h-5 w-5' />
+          <span className='btm-nav-label'>{t('Settings')}</span>
+        </Link>
       </div>
-      <hr />
-      <Outlet /> {/* Start rendering router matches */}
     </Router>
   );
 }
