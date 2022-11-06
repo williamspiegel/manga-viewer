@@ -1,0 +1,1893 @@
+{
+  "result": "ok",
+  "response": "collection",
+  "data": [
+    {
+      "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Berserk"
+        },
+        "altTitles": [
+          {
+            "he": "ברזרק"
+          },
+          {
+            "fa": "برزرک"
+          },
+          {
+            "ar": "برسرك"
+          },
+          {
+            "th": "เบอร์เซิร์ก"
+          },
+          {
+            "ja": "ベルセルク"
+          },
+          {
+            "zh-hk": "劍風傳奇"
+          },
+          {
+            "zh": "烙印勇士"
+          },
+          {
+            "ko": "베르세르크"
+          },
+          {
+            "ar": "بيرسيرك"
+          },
+          {
+            "th": "เทพมรณะ"
+          },
+          {
+            "uk": "Берсерк"
+          }
+        ],
+        "description": {
+          "en": "Guts, known as the Black Swordsman, seeks sanctuary from the demonic forces attracted to him and his woman because of a demonic mark on their necks, and also vengeance against the man who branded him as an unholy sacrifice. Aided only by his titanic strength gained from a harsh childhood lived with mercenaries, a gigantic sword, and an iron prosthetic left hand, Guts must struggle against his bleak destiny, all the while fighting with a rage that might strip him of his humanity.  \n  \n---\n- **Won the 6th Osamu Tezuka Cultural Prize Excellence Award in 2002**\n---  \n**Links to AnimeNewsNetwork:**  \nMovies:  \n- [The Golden Age Arc I](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12397)  \n- [The Golden Age Arc II](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13799)  \n- [The Golden Age Arc III](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13800)  \nAnime (2015):  \n- [Season 1](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=328)  \n- [Season 2](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18160)  \n- [Season 3](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19015) \n\n[Official English](https://www.darkhorse.com/Search/Browse/%22berserk%22------January+1986-December+3000/Ppydwkt7) \n   [Official Thai](https://shopee.co.th/berserk%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B8%84-%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%A1-1-20-%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87-i.63434898.1855330863)",
+          "uk": "Його ім'я Ґатс, Чорний Мечник. Він могутній воїн, про якого говорять лишень пошепки. У нього є велетенський меч , рука зі заліза й шрами від незліченних боїв і тортур. А ще його плоть позначена Тавром — нечестивим символом, який притягує сили пітьми й робить Ґатса їхньою жертвою. Але Ґатс не прийме таку долю спокійно: він порубає на фарш війська проклятих, як і будь-кого, кому стане дурості стати на його шляху! Ґатс іде в товаристві ельфа Пака (більше докучайла, ніж товариша) темним і закривавленим шляхом, який приведе лише до загибелі... Чи помсти.",
+          "pt-br": "Guts, conhecido como o Espadachim Negro, busca refúgio das forças demoníacas atraídas por ele e sua mulher por causa de uma marca demoníaca em seus pescoços, e também vingança contra o homem que o marcou como um sacrifício profano.  Ajudado apenas por sua força titânica adquirida de uma infância dura vivida com mercenários, uma espada gigantesca e uma mão esquerda protética de ferro, Guts deve lutar contra seu destino sombrio, enquanto luta com uma raiva que pode despojá-lo de sua humanidade."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "30002",
+          "ap": "berserk",
+          "bw": "series/16664",
+          "kt": "8",
+          "mu": "88",
+          "amz": "https://www.amazon.co.jp/dp/B074C597F1",
+          "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2675661",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/127562/",
+          "mal": "2",
+          "raw": "https://www.younganimal.com/berserk/",
+          "engtl": "https://www.darkhorse.com/Search/Browse/%22berserk%22------January+1986-December+3000/Ppydwkt7"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "seinen",
+        "status": "ongoing",
+        "year": 1989,
+        "contentRating": "suggestive",
+        "tags": [
+          {
+            "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Thriller"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Award Winning"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Reincarnation"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Monsters"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Demons"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Psychological"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Ghosts"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Animals"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Survival"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "631ef465-9aba-4afb-b0fc-ea10efe274a8",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Zombies"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adventure"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "9467335a-1b83-4497-9231-765337a00b96",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Post-Apocalyptic"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Sexual Violence"
+              },
+              "description": {},
+              "group": "content",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Magic"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Military"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Philosophical"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Gore"
+              },
+              "description": {},
+              "group": "content",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Horror"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Supernatural"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Tragedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2018-01-30T13:50:05+00:00",
+        "updatedAt": "2022-10-24T16:01:57+00:00",
+        "version": 71,
+        "availableTranslatedLanguages": [
+          "fr",
+          "pt-br",
+          "es-la",
+          "en",
+          "uk",
+          "ru",
+          "tr",
+          "id",
+          "ar",
+          "zh-hk",
+          "it",
+          "pl",
+          "fa",
+          "es",
+          "ro"
+        ],
+        "latestUploadedChapter": "bd29ed17-467d-42be-876e-463bea403fd0"
+      },
+      "relationships": [
+        {
+          "id": "5863578d-4e4f-4b57-b64d-1dd45a893cb0",
+          "type": "author"
+        },
+        {
+          "id": "e4dc18d8-1b8d-48e6-9b70-0f93a5af35ca",
+          "type": "author"
+        },
+        {
+          "id": "5863578d-4e4f-4b57-b64d-1dd45a893cb0",
+          "type": "artist"
+        },
+        {
+          "id": "8d88f37d-bd1e-4974-a309-7dfce13f9c56",
+          "type": "artist"
+        },
+        {
+          "id": "f72e2fde-14cf-47d9-99e8-335c5b99dded",
+          "type": "cover_art",
+          "attributes": {
+            "fileName": "2a61abcb-8e6e-460d-8551-1caa93e09e39.jpg",
+            "description": "",
+            "volume": "41",
+            "locale": "ja",
+            "version": 6,
+            "createdAt": "2021-12-22T12:25:06+00:00",
+            "updatedAt": "2022-03-14T16:59:11+00:00"
+          }
+        },
+        {
+          "id": "380b3b9f-91ce-4f03-bb4a-f1788575ec9b",
+          "type": "manga",
+          "related": "same_franchise"
+        },
+        {
+          "id": "4a5d677d-e3ac-4c23-a6bf-bb92c984fee4",
+          "type": "manga",
+          "related": "preserialization"
+        },
+        {
+          "id": "d9e2f26e-c762-41a6-bb71-b6ae18cadde2",
+          "type": "manga",
+          "related": "colored"
+        }
+      ]
+    },
+    {
+      "id": "dc332d04-d3b0-413c-a767-70f5e451b031",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Kuro no Shoukanshi"
+        },
+        "altTitles": [
+          {
+            "en": "The Black Summoner"
+          },
+          {
+            "ru": "Черный призыватель"
+          },
+          {
+            "zh": "黑之召唤士"
+          },
+          {
+            "ja": "黒の召喚士"
+          },
+          {
+            "ko": "흑의 소환사"
+          },
+          {
+            "en": "The Berserker Rises to Greatness"
+          }
+        ],
+        "description": {
+          "en": "Losing his memories as a compensation for a transfer to another world, the curtains of the story of Kelvin rise. While steadily getting stronger, he adds new subordinates by mastering his skills in hope to get powerful enough to summon his Angel Follower who he has supposedly fallen in love previous to the memory loss, but by the time he noticed it, he had obtained overwhelming power…  \n\n---\n**Links:**  \n- [Original Web Novel](https://ncode.syosetu.com/n1222ci/) (Raw)\n- [Official English Light Novel](https://j-novel.club/series/black-summoner)",
+          "ru": "Он очнулся в мире ничего не помня о себе, даже имени. Зато это мир меча и магии, а он призыватель. Ну, вперед, осваиваться в новом мире!"
+        },
+        "isLocked": false,
+        "links": {
+          "al": "101746",
+          "ap": "kuro-no-shoukanshi",
+          "bw": "series/164413",
+          "kt": "40521",
+          "mu": "146577",
+          "nu": "black-summoner",
+          "amz": "https://www.amazon.co.jp/gp/product/B07M6TVPPV",
+          "cdj": "http://www.cdjapan.co.jp/product/NEOBK-2244430",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/462122",
+          "mal": "112121",
+          "raw": "https://over-lap.co.jp/Form/Product/ProductDetail.aspx?pid=ZG0017",
+          "engtl": "https://j-novel.club/s/black-summoner-manga/"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "seinen",
+        "status": "ongoing",
+        "year": 2018,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Reincarnation"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Monsters"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Demons"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adventure"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Magic"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Harem"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "ace04997-f6bd-436e-b261-779182193d3d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Isekai"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Monster Girls"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adaptation"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2019-03-10T23:30:18+00:00",
+        "updatedAt": "2022-10-13T00:22:30+00:00",
+        "version": 27,
+        "availableTranslatedLanguages": ["en", "fr", "ru", "it"],
+        "latestUploadedChapter": "9b428060-ecfc-4f62-8b15-357bec2eb442"
+      },
+      "relationships": [
+        {
+          "id": "329324a7-7961-4c3a-853c-4094d5f2c9d9",
+          "type": "author"
+        },
+        {
+          "id": "ef998675-b09d-4470-80ce-fbf8581b5329",
+          "type": "artist"
+        },
+        {
+          "id": "21194482-9b27-4fb8-a137-71d2ec7e5c13",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": "14",
+            "fileName": "a1e23cab-8e40-4c01-8b1e-497ba2d3df97.jpg",
+            "locale": "ja",
+            "createdAt": "2022-09-27T03:44:00+00:00",
+            "updatedAt": "2022-09-27T03:44:00+00:00",
+            "version": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "06d22615-4713-43dd-985d-377301758d69",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Peerless Battle Spirit"
+        },
+        "altTitles": [
+          {
+            "en": "Berserk Peerless Battle Spirit"
+          },
+          {
+            "en": "Berserk Sovereign of Battle"
+          },
+          {
+            "zh": "绝世战魂"
+          },
+          {
+            "zh-ro": "Jueshi Zhan Hun"
+          }
+        ],
+        "description": {
+          "en": "In the Canglan Continent, there existed a rule: only those who managed to awaken a Martial Spirit were able to pursue the path of cultivation, and a Martial Spirit's rank was determined when it was awakened. Born in Linshui City, Qin Nan was a peerless genius who possessed great talents and was highly anticipated to become a great cultivator in the future. However, things changed when he ended up awakening the lowest-grade Martial Spirit, resulting in him being considered trash.  \n  \nFortunately, when Qin Nan was struck by a ray of lightning at a young age, he coincidentally obtained the atavistic Divine Battle Spirit, which was capable of ranking up, breaking the ultimate rule of the Canglan Continent. Little did he know that his Martial Spirit possessed a great secret, which would continue to be unveiled as he learns more about the story of the Divine Battle Spirit.  \n  \nWhat is the secret behind the Divine Battle Spirit? What is the curse of the Canglan Continent? Who exactly is the Divine God of Battle?  \n  \nJoin Qin Nan and his companions along their journey, battling against various opponents, outsmarting their enemies, and seeking the answers to unveil mysteries!  \n  \n“Master, please bring me along on your journey battling against the Nine Heavens, will you?”  \n  \n*From gravitytales.com"
+        },
+        "isLocked": false,
+        "links": {
+          "al": "111408",
+          "kt": "54865",
+          "mu": "155027",
+          "nu": "peerless-battle-spirit",
+          "raw": "https://ac.qq.com/Comic/comicInfo/id/643504"
+        },
+        "originalLanguage": "zh",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": null,
+        "status": "ongoing",
+        "year": null,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Long Strip"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Martial Arts"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adventure"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "acc803a4-c95a-4c22-86fc-eb6b582d82a2",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Wuxia"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Web Comic"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Full Color"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2020-05-12T19:25:53+00:00",
+        "updatedAt": "2022-02-01T21:58:53+00:00",
+        "version": 3,
+        "availableTranslatedLanguages": ["en", "pt-br", "pl", "fr", "it", "id"],
+        "latestUploadedChapter": "47a65171-48c0-4d27-a139-82d01b14d6e6"
+      },
+      "relationships": [
+        {
+          "id": "f1b8b99d-d1f8-4afc-9cd0-570d934d2ecc",
+          "type": "author"
+        },
+        {
+          "id": "f914b4d3-a1d8-4a6a-95b5-faa9798f4577",
+          "type": "artist"
+        },
+        {
+          "id": "aeb87136-fb29-4f7a-b30b-669f04c07a59",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": null,
+            "fileName": "a98a1a7b-9459-4057-8931-30083605c2a8.jpg",
+            "locale": "zh",
+            "createdAt": "2021-05-24T17:55:43+00:00",
+            "updatedAt": "2021-05-24T17:55:43+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "ea70bf95-d899-49e1-abc3-0d6e205bc334",
+          "type": "manga",
+          "related": "alternate_story"
+        }
+      ]
+    },
+    {
+      "id": "30196491-8fc2-4961-8886-a58f898b1b3e",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Berserk of Gluttony"
+        },
+        "altTitles": [
+          {
+            "fr": "Berserk de la Gourmandise : Celui qui surpasse le concept même de niveaux"
+          },
+          {
+            "pl": "Berserk obżarstwa"
+          },
+          {
+            "en": "Berserk of Gluttony: The One That Exceeds The Concept Of Levels"
+          },
+          {
+            "ja": "Boushoku no Berserk: Ore Dake Level to Iu Gainen o Toppa Suru"
+          },
+          {
+            "ru": "Ненасытный Берсерк"
+          },
+          {
+            "ja": "暴食のベルセルク ～俺だけレベルという概念を突破する～"
+          },
+          {
+            "zh-hk": "狂怒的暴食 ～僅自己突破了等級這概念～"
+          },
+          {
+            "zh": "狂怒的暴食 ～只有我突破了等级这概念～"
+          },
+          {
+            "ko": "폭식의 버서크"
+          },
+          {
+            "ko": "폭식의 베르세르크 ~나만 레벨이라는 개념을 돌파한다~"
+          }
+        ],
+        "description": {
+          "en": "In this world, there are two types of people. Those Who have powerful \"skills\", and those who don't. People born with powerful skills, exterminate monsters to level up and become successful, while people without them, become failures, who are treated harshly by society. Follow the story of Fate, a guy who works as a gatekeeper, and whose only skill is gluttony, a skill that only makes him hungry.  \n\n\n---",
+          "fr": "Dans ce monde, il y a deux types de personnes. Ceux qui ont un ou plusieurs \"talents\", et ceux qui n'en possèdent pas. Les personnes nées avec de puissant talents, exterminent les monstres pour monter en niveaux et devenir puissants, alors que ceux qui n'en possèdent pas deviennent des échecs et sont traités durement par la société. Nous suivons l'histoire de Fate, un homme travaillant comme garde aux portes de la ville et dont son seul talents est la gourmandise, un talent qui ne fait que lui donner faim.  \n\n\n---",
+          "ro": "În lumea asta sunt două tipuri de oameni: cei care posedă “puteri” incredibile și cei care nu.  \nCei care au fost născuți cu asemenea “puteri” extermină monștrii, evoluează și devin oameni de success, în timp ce ceilalți devin eșecuri, și sunt tratați diferit de societate.  \nCitește povestea lui Fate, un tip ce lucrează ca și gardian, a cărui putere este lăcomia, o putere care îl face să fie mereu înfometat.   \n  \n\n\n---\n\n**Links:**  \n- [Author's Twitter](https://twitter.com/isshiki_ichika)  \n- [Original Web Novel](https://ncode.syosetu.com/n6887dt/) (Raw)  \n- Original Comic on **[** [Comic Ride](http://comicride.jp/gluttony/) **|** [NicoNico](http://seiga.nicovideo.jp/comic/31663) **]** (Raw)",
+          "ru": "В этом мире есть два типа людей. Те, у кого есть сильные «навыки», и те, кто их не имеет. Люди, рожденные с мощными навыками, уничтожают монстров, чтобы стать успешными, в то время как люди без них становятся неудачниками, к которым жестоко относится общество. В нашей истории, парень, который работает в качестве привратника, и чье единственное умение — обжорство, умение, которое только делает его голодным.   \n  \n\n\n---",
+          "pt-br": "Neste mundo, existem dois tipos de pessoas. Aqueles que têm poderosas “habilidades” e aqueles que não. As pessoas nascidas com habilidades poderosas exterminam monstros para subirem de nível e se tornarem bem-sucedidas, enquanto as pessoas sem eles, tornam-se fracassos, que são tratados com dureza pela sociedade. Fate é um cara que trabalha como um porteiro, e cuja única habilidade é a gula, uma habilidade que o faz comer almas."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "101625",
+          "ap": "boshoku-no-berserk",
+          "bw": "series/175790",
+          "kt": "40812",
+          "mu": "147844",
+          "nu": "glutton-berserker-the-one-that-exceeds-the-concept-of-levels",
+          "amz": "https://www.amazon.co.jp/gp/product/B07PGBXYQZ",
+          "ebj": "https://ebookjapan.yahoo.co.jp/books/436470",
+          "mal": "113958",
+          "raw": "http://comicride.jp/gluttony",
+          "engtl": "https://sevenseasentertainment.com/series/berserk-of-gluttony-manga/"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "seinen",
+        "status": "ongoing",
+        "year": 2018,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Romance"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adventure"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Harem"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adaptation"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2019-03-26T07:49:40+00:00",
+        "updatedAt": "2022-10-24T22:21:53+00:00",
+        "version": 21,
+        "availableTranslatedLanguages": [
+          "pl",
+          "es-la",
+          "ru",
+          "hu",
+          "fr",
+          "pt-br",
+          "en",
+          "de",
+          "it",
+          "ar",
+          "ro"
+        ],
+        "latestUploadedChapter": "f87f571e-511e-443a-ac76-0b70ace25025"
+      },
+      "relationships": [
+        {
+          "id": "6e5e2e5e-a19c-4eaf-8f2b-de2593a2a060",
+          "type": "author"
+        },
+        {
+          "id": "6c744f72-ec67-455b-bdaa-93ef20adf2ae",
+          "type": "artist"
+        },
+        {
+          "id": "16711476-08c4-47a6-88d5-82b41e3c7d1a",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": "9",
+            "fileName": "c2715746-4f44-48dc-b87a-a2de67e887be.jpg",
+            "locale": "ja",
+            "createdAt": "2022-10-24T22:21:52+00:00",
+            "updatedAt": "2022-10-24T22:21:52+00:00",
+            "version": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "4a5d677d-e3ac-4c23-a6bf-bb92c984fee4",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Berserk - The Prototype"
+        },
+        "altTitles": [
+          {
+            "ja": "ベルセルク・プロトタイプ"
+          },
+          {
+            "uk": "Берсерк Прототип"
+          }
+        ],
+        "description": {
+          "en": "The original oneshot prototype for Berserk. Included in Berserk Volume 14.\n\n---\n- **Won the Comi Manga School Prize in 1988**",
+          "uk": "Це ваншот, створений Майстром Міурою 1988-го року. Хронологічно його можна було б розмістити після арки «Чорний Мечник», однак, він неканонічний, оскільки є чимало розбіжностей із иншими арками, на кшталт «Чорного лицаря» замість «Чорного Мечника». Однак, цей ваншот є важливим, адже він визначив подальший наратив «Берсерка».",
+          "pt-br": "Antes de Berserk se tornar o que é agora, Miura Kentaro criou um capítulo protótipo para o manga. O ano era 1988 e ele ainda era um estudante na época. Este é o one-shot protótipo em que a manga Berserk é baseado."
+        },
+        "isLocked": false,
+        "links": {
+          "al": "36408"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "seinen",
+        "status": "completed",
+        "year": 1989,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Oneshot"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Thriller"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Award Winning"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Demons"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adventure"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Gore"
+              },
+              "description": {},
+              "group": "content",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2021-03-20T07:38:31+00:00",
+        "updatedAt": "2022-07-09T00:13:21+00:00",
+        "version": 11,
+        "availableTranslatedLanguages": ["pt-br", "ru"],
+        "latestUploadedChapter": "20eadb0a-c834-47b2-8c54-8af28d2077bd"
+      },
+      "relationships": [
+        {
+          "id": "5863578d-4e4f-4b57-b64d-1dd45a893cb0",
+          "type": "author"
+        },
+        {
+          "id": "5863578d-4e4f-4b57-b64d-1dd45a893cb0",
+          "type": "artist"
+        },
+        {
+          "id": "c28b9242-bf46-428d-ba73-309537c2d141",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": "1",
+            "fileName": "882cd241-3f8d-4bcc-8261-b233eabd22b2.jpg",
+            "locale": "ja",
+            "createdAt": "2022-04-20T14:34:40+00:00",
+            "updatedAt": "2022-04-20T14:34:40+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga",
+          "related": "serialization"
+        }
+      ]
+    },
+    {
+      "id": "e8250434-16f6-44f6-9436-e33c4fc6aece",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Berserk Boost"
+        },
+        "altTitles": [
+          {
+            "en": "I Am Crazy Upgrade"
+          },
+          {
+            "en": "I Upgrade Violently"
+          },
+          {
+            "en": "I'm berserk to upgrade"
+          },
+          {
+            "en": "Моя безумная прокачка"
+          },
+          {
+            "en": "Прокачка Берсерка"
+          },
+          {
+            "en": "我狂暴升级"
+          }
+        ],
+        "description": {
+          "en": "have you ever seen the killing of chicken bring out the divine blood? Have you ever seen anyone who kills toads and shows off his martial arts? Have you ever seen women all over the world crazy for a man? Shouldering the Dragon slaying knife and holding the God's sword, my brother asked, \"who else is there?\" Otaku Long fei comes across with a rage system. Kill monsters and kill people. Crush the three realms and destroy all those who don't obey!  \n  \nRU: Что вы ожидаете получить, убив финального босса в игре? Легендарную вещь? Море золота? Всемирную славу? Но Лонг Фей, сделав необычный выбор, получил в награду новый режим. Что он будет делать и как выкручиваться, одному лишь богу известно… а может, и не известно! А пока, Лонг Фей вынужден качаться с самого начала на всем, что движется…"
+        },
+        "isLocked": false,
+        "links": null,
+        "originalLanguage": "zh",
+        "lastVolume": null,
+        "lastChapter": null,
+        "publicationDemographic": null,
+        "status": "ongoing",
+        "year": null,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Long Strip"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Comedy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Web Comic"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Full Color"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2020-11-08T05:19:24+00:00",
+        "updatedAt": "2021-05-25T15:49:07+00:00",
+        "version": 2,
+        "availableTranslatedLanguages": ["pt-br", "ru", "en"],
+        "latestUploadedChapter": "610523cc-2c5f-4d15-aab4-db8f39f27fd7"
+      },
+      "relationships": [
+        {
+          "id": "3da870b9-069b-4d42-8cb5-2d74d2d972ae",
+          "type": "author"
+        },
+        {
+          "id": "3da870b9-069b-4d42-8cb5-2d74d2d972ae",
+          "type": "artist"
+        },
+        {
+          "id": "4ec55edf-608d-4fa0-97da-99dd1288ed63",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": null,
+            "fileName": "76580478-deb1-4c88-a4f8-bedc2f2357cc.jpg",
+            "locale": "zh",
+            "createdAt": "2021-05-24T18:17:58+00:00",
+            "updatedAt": "2021-05-24T18:17:58+00:00",
+            "version": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "78567cc0-ed34-47f3-a3e1-72cbc07fe6f8",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "REAL PLAY: BERSEKER"
+        },
+        "altTitles": [
+          {
+            "ko": "리플 : 버서커"
+          },
+          {
+            "en": "Ripple: Berserker"
+          }
+        ],
+        "description": {
+          "en": "Due to the virtual reality creation item 'Real Play (Ripple)' rank 1 pro gamer 'Hyun-soo' leaves the gaming scene. Unlike his peers, he despises Ripple and is bullied for it, spending his days barely getting by working part time jobs. Thanks to his friend who pities him, he reluctantly begins to play Ripple. With his reaction times from his days as 1 frame, and the strength of a berserker, he becomes the focus of attention.",
+          "ko": "가상현실 구현 아이템 `리얼 플레이(리플)‘ 때문에 세계 1위 프로게이머 자리를 내려놓은 '현수'는 친구들과 달리 리플을 거부하여 왕따를 당하고 알바로 근근이 돈을 벌어 살아간다.\n​\n이를 안타깝게 여긴 절친의 권유로 마지못해 리플을 시작하게 되고\n1 프레임 단위로 반응하는 반사 신경과 동체시력 그리고 광전사 같은 힘으로 화제의 주인공이 되는데…."
+        },
+        "isLocked": false,
+        "links": {
+          "mu": "194566",
+          "raw": "https://page.kakao.com/home?seriesId=58603371"
+        },
+        "originalLanguage": "ko",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "shounen",
+        "status": "ongoing",
+        "year": 2022,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Sci-Fi"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Action"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Long Strip"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Drama"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Web Comic"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Supernatural"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Full Color"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2022-01-21T14:35:23+00:00",
+        "updatedAt": "2022-01-30T13:58:28+00:00",
+        "version": 6,
+        "availableTranslatedLanguages": ["en"],
+        "latestUploadedChapter": "cbb3f989-5812-4f12-b6a2-238489962922"
+      },
+      "relationships": [
+        {
+          "id": "180636eb-6b45-4c94-90cf-6fedfa701a31",
+          "type": "author"
+        },
+        {
+          "id": "180636eb-6b45-4c94-90cf-6fedfa701a31",
+          "type": "artist"
+        },
+        {
+          "id": "6a2f021e-bb85-44b6-b1ae-1179564578f4",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": "1",
+            "fileName": "4c58116c-3189-408b-836c-804be02737cf.jpg",
+            "locale": "ko",
+            "createdAt": "2022-01-30T13:58:28+00:00",
+            "updatedAt": "2022-01-30T13:58:28+00:00",
+            "version": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "e939aa14-37e7-4fd1-9923-ddad014c5c1e",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Kentaro Miura Memorial Manga"
+        },
+        "altTitles": [
+          {
+            "en": "Berserk Memorial"
+          },
+          {
+            "en": "M.K."
+          }
+        ],
+        "description": {
+          "en": "Memorial for Kentaro Miura from the final chapter of 'Berserk'.\n\nWill continue to chapter 1 whenever Mori-san will get to publishing it."
+        },
+        "isLocked": false,
+        "links": {
+          "mu": "192919"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": "",
+        "lastChapter": "",
+        "publicationDemographic": "seinen",
+        "status": "hiatus",
+        "year": 2021,
+        "contentRating": "safe",
+        "tags": [],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2021-12-04T08:59:28+00:00",
+        "updatedAt": "2022-06-11T08:22:17+00:00",
+        "version": 16,
+        "availableTranslatedLanguages": ["es-la", "en"],
+        "latestUploadedChapter": "0eac35c9-48b6-4507-8db4-5197fc300e8a"
+      },
+      "relationships": [
+        {
+          "id": "e4dc18d8-1b8d-48e6-9b70-0f93a5af35ca",
+          "type": "author"
+        },
+        {
+          "id": "e4dc18d8-1b8d-48e6-9b70-0f93a5af35ca",
+          "type": "artist"
+        },
+        {
+          "id": "10b925b5-481b-4102-83d3-5cb006d538dd",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": "1",
+            "fileName": "7617fc38-72b8-419d-b979-97e5aa926ffe.jpg",
+            "locale": "ja",
+            "createdAt": "2021-12-04T08:59:31+00:00",
+            "updatedAt": "2021-12-04T08:59:31+00:00",
+            "version": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "0c1bfc4c-ca4d-4c1d-80de-8f98793a46c8",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Solo Shinkan no VRMMO Boukenki"
+        },
+        "altTitles": [
+          {
+            "en": "Solo Priest's VRMMO Adventure ~No matter how you look at it that's a berserker. Seriously thank you so much~"
+          },
+          {
+            "en": "ソロ神官のVRMMO冒険記　～どこから見ても狂戦士です本当にありがとうございました～"
+          }
+        ],
+        "description": {
+          "en": "Ryu Shinjo is a student who is invited (forced) by his best friend to enter the world of virtual and online role-playing games (VRMMORPG).  \n  \nDuring the game and when choosing his class, Ryu decides to become a \"priest\", through which he can regain his health through magic and thus play alone. However, his playing style is far from what you would call a \"normal priest\". It is time to learn the story from Ryu, the priest who instills terror into anyone who dares to stand in his way."
+        },
+        "isLocked": false,
+        "links": {
+          "ap": "solo-shinkan-no-vrmmo-boukenki",
+          "mu": "170972"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": null,
+        "lastChapter": null,
+        "publicationDemographic": "seinen",
+        "status": "ongoing",
+        "year": null,
+        "contentRating": "suggestive",
+        "tags": [
+          {
+            "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adventure"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "8c86611e-fab7-4986-9dec-d1a2f44acdd5",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Virtual Reality"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Harem"
+              },
+              "description": {},
+              "group": "theme",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Fantasy"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Adaptation"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2020-09-19T18:02:13+00:00",
+        "updatedAt": "2021-05-25T15:39:21+00:00",
+        "version": 2,
+        "availableTranslatedLanguages": ["en"],
+        "latestUploadedChapter": "2a5b77b4-dc58-4502-8a7d-aebed84c2960"
+      },
+      "relationships": [
+        {
+          "id": "0c5530a0-9f50-45b2-81d2-a27b2db7631e",
+          "type": "author"
+        },
+        {
+          "id": "1ddc427b-b65c-458d-9e32-5a00ec034f13",
+          "type": "artist"
+        },
+        {
+          "id": "4acbfb43-0f60-4fd8-aa43-4dd5480db267",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": null,
+            "fileName": "704d2805-fc09-43e7-bf1d-d9a2bc5a1a60.jpg",
+            "locale": "ja",
+            "createdAt": "2021-05-24T18:11:22+00:00",
+            "updatedAt": "2021-05-24T18:11:22+00:00",
+            "version": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "dd86e9c2-5cff-4097-9cda-48bca16dce38",
+      "type": "manga",
+      "attributes": {
+        "title": {
+          "en": "Berserk - Cruel (Doujinshi)"
+        },
+        "altTitles": [
+          {
+            "en": "Berserk dj - Cruel"
+          }
+        ],
+        "description": {
+          "en": "Pairing: Griffith x Guts"
+        },
+        "isLocked": false,
+        "links": {
+          "mu": "127455"
+        },
+        "originalLanguage": "ja",
+        "lastVolume": null,
+        "lastChapter": null,
+        "publicationDemographic": null,
+        "status": "completed",
+        "year": null,
+        "contentRating": "safe",
+        "tags": [
+          {
+            "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Oneshot"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Boys' Love"
+              },
+              "description": {},
+              "group": "genre",
+              "version": 1
+            },
+            "relationships": []
+          },
+          {
+            "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+            "type": "tag",
+            "attributes": {
+              "name": {
+                "en": "Doujinshi"
+              },
+              "description": {},
+              "group": "format",
+              "version": 1
+            },
+            "relationships": []
+          }
+        ],
+        "state": "published",
+        "chapterNumbersResetOnNewVolume": false,
+        "createdAt": "2019-12-15T21:57:47+00:00",
+        "updatedAt": "2021-05-25T15:48:35+00:00",
+        "version": 2,
+        "availableTranslatedLanguages": ["en"],
+        "latestUploadedChapter": "cd0faabf-75c6-4235-8b9c-32316f4cc91e"
+      },
+      "relationships": [
+        {
+          "id": "72d57a97-4f60-4d19-a7fc-d6166aadb275",
+          "type": "author"
+        },
+        {
+          "id": "72d57a97-4f60-4d19-a7fc-d6166aadb275",
+          "type": "artist"
+        },
+        {
+          "id": "67e8adfd-0069-4fad-bfcc-f6a635b33ed3",
+          "type": "cover_art",
+          "attributes": {
+            "description": "",
+            "volume": null,
+            "fileName": "29b9c10d-d4cb-4eda-8460-6e886e67de6e.jpg",
+            "locale": "ja",
+            "createdAt": "2021-05-24T17:37:37+00:00",
+            "updatedAt": "2021-05-24T17:37:37+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "bef5c572-2fa2-479f-971c-6d7770d20e70",
+          "type": "manga",
+          "related": "sequel"
+        }
+      ]
+    }
+  ],
+  "limit": 10,
+  "offset": 0,
+  "total": 14
+}
