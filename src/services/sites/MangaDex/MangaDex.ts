@@ -1,5 +1,6 @@
 import axios from 'axios';
-import { MangaService } from '../../mangaService';
+import { MangaService } from '../../MangaService';
+
 import MangaDexMockData from './MangaDexMockData.json';
 
 const BASE_URL = 'api.mangadex.org';
