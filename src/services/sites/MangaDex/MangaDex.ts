@@ -9,13 +9,13 @@ export class MangaDex implements MangaService {
   async getMangaList(query: string) {
     const config = {
       method: 'get',
-      url: `${BASE_URL}/manga?title=Berserk&includes[]=cover_art&includes[]=chapter`,
+      url: `${BASE_URL}/manga?title=${query}&includes[]=cover_art&includes[]=chapter`,
     };
 
     try {
       const response = await axios(config);
       const { data }: typeof MangaDexMockData = response.data;
-      return data?.map((curr) => ({
+      return data?.map((curr: any) => ({
         id: curr?.id,
         //TODO: dynamically localize title
         title: curr?.attributes?.title['en'],
