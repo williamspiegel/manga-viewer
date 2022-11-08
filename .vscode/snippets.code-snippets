@@ -18,5 +18,17 @@
   "useTranslation": {
     "prefix": "t",
     "body": "const { t } = useTranslation();"
+  },
+  "create React Typescript Function componenet": {
+    "prefix": "rtfc",
+    "body": [
+      "type PropTypes = {};",
+      "",
+      "const $TM_FILENAME_BASE = (props: PropTypes) => {",
+      "  return <div>$TM_FILENAME_BASE</div>;",
+      "};",
+      "",
+      "export default $TM_FILENAME_BASE;"
+    ]
   }
 }
