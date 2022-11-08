@@ -1,55 +1,35 @@
-import { useVirtualizer } from '@tanstack/react-virtual';
-import React from 'react';
+import AutoSizer from 'react-virtualized-auto-sizer';
+import { VariableSizeList as List } from 'react-window';
 import { MangaEntry } from '../services/MangaService';
 
 type PropTypes = { mangaEntries: MangaEntry[] };
 
 const MangaCovers = ({ mangaEntries }: PropTypes) => {
-  const parentRef = React.useRef();
-  const virtualizer = useVirtualizer({
-    horizontal: true,
-    count: mangaEntries.length,
-    getScrollElement: () => parentRef.current,
-    estimateSize: () => 100,
-  });
+  const Column = ({ index, style }: any) => {
+    const { coverURL, title, id } = mangaEntries[index];
+    console.log('dynamically loaded index:  ', index);
+    return (
+      <div className='p-1' key={index} data-index={index} style={style}>
+        <img src={coverURL} alt={title} id={id} className='rounded-md' />
+        <text>{title}</text>
+      </div>
+    );
+  };
   return (
     <>
-      <div
-        style={{
-          width: '100%',
-          maxWidth: '100%',
-          overflow: 'auto',
-        }}
-        ref={parentRef as any}
-      >
-        <div
-          className='flex flex-row'
-          style={{
-            width: virtualizer.getTotalSize(),
-          }}
-        >
-          {virtualizer.getVirtualItems().map(({ key, index, start }) => {
-            const { coverURL, title, id } = mangaEntries[index];
-            console.log('dynamically loaded index:  ', index);
-            return (
-              <div
-                className='p-1'
-                key={key}
-                data-index={index}
-                ref={virtualizer.measureElement}
-              >
-                <img
-                  src={coverURL}
-                  alt={title}
-                  id={id}
-                  className='rounded-md'
-                />
-                <text>{title}</text>
-              </div>
-            );
-          })}
-        </div>
-      </div>
+      <AutoSizer style={{ width: '100%' }}>
+        {({ width }) => (
+          <List
+            height={170}
+            width={width}
+            itemCount={1000}
+            layout='horizontal'
+            itemSize={() => 100}
+          >
+            {Column as any}
+          </List>
+        )}
+      </AutoSizer>
     </>
   );
 };
