@@ -2,9 +2,9 @@ import AutoSizer from 'react-virtualized-auto-sizer';
 import { VariableSizeList as List } from 'react-window';
 import { MangaEntry } from '../services/MangaService';
 
-type PropTypes = { mangaEntries: MangaEntry[] };
+type PropTypes = { mangaEntries: MangaEntry[]; className?: string | undefined };
 
-const MangaCovers = ({ mangaEntries }: PropTypes) => {
+const MangaCovers = ({ mangaEntries, className = '' }: PropTypes) => {
   const Column = ({ index, style }: any) => {
     const { coverURL, title, id } = mangaEntries[index];
     console.log('dynamically loaded index:  ', index);
@@ -16,21 +16,20 @@ const MangaCovers = ({ mangaEntries }: PropTypes) => {
     );
   };
   return (
-    <>
-      <AutoSizer style={{ width: '100%' }}>
-        {({ width }) => (
-          <List
-            height={170}
-            width={width}
-            itemCount={1000}
-            layout='horizontal'
-            itemSize={() => 100}
-          >
-            {Column as any}
-          </List>
-        )}
-      </AutoSizer>
-    </>
+    // TODO: figure out why w-full does not work for className
+    <AutoSizer className={'flex-1 ' + className} style={{ width: '100%' }}>
+      {({ width }) => (
+        <List
+          height={170}
+          width={width}
+          itemCount={mangaEntries.length}
+          layout='horizontal'
+          itemSize={() => 100}
+        >
+          {Column as any}
+        </List>
+      )}
+    </AutoSizer>
   );
 };
 
