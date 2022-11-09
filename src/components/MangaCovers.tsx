@@ -17,10 +17,12 @@ const MangaCovers = ({ mangaEntries, className = '' }: PropTypes) => {
   };
   return (
     // TODO: figure out why w-full does not work for className
-    <AutoSizer className={'flex-1 ' + className} style={{ width: '100%' }}>
+    /* TODO: test out setting height and itemSize based off only the height 
+    of the initial render to avoid virtualization jank with new items being loaded in */
+    <AutoSizer className={'flex-1 mt-5' + className} style={{ width: '100%' }}>
       {({ width }) => (
         <List
-          height={170}
+          height={180}
           width={width}
           itemCount={mangaEntries.length}
           layout='horizontal'
