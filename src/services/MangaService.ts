@@ -9,6 +9,6 @@ export type MangaEntry = {
   coverURL: string;
 };
 
-export interface MangaService {
-  getMangaList: (query: string) => Promise<MangaEntry[]>;
+export abstract class MangaService {
+  static getMangaList: (query: string) => Promise<MangaEntry[]>;
 }
