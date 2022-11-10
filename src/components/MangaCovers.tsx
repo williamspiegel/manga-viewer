@@ -20,7 +20,12 @@ const MangaCovers = ({ mangaEntries, className = '' }: PropTypes) => {
         }}
       >
         <div className='p-1' key={index} data-index={index} style={style}>
-          <img src={coverURL} alt={title} id={id} className='rounded-md' />
+          <img
+            src={coverURL}
+            alt={title}
+            id={id}
+            className='rounded-md object-cover aspect-[2/3]'
+          />
           <text>{title}</text>
         </div>
       </Link>
