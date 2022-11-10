@@ -25,6 +25,7 @@ export default function Routing() {
       ]}
     >
       <Outlet />
+      <div className='h-16' />
       <div className='btm-nav'>
         <Link
           to='/'

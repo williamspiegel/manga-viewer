@@ -5,7 +5,7 @@ import { MangaEntry } from '../services/MangaService';
 type PropTypes = { mangaEntries: MangaEntry[]; className?: string | undefined };
 
 const MangaCovers = ({ mangaEntries, className = '' }: PropTypes) => {
-  const Column = ({ index, style }: any) => {
+  const Column = ({ index, style }: { index: number; style: Object }) => {
     const { coverURL, title, id } = mangaEntries[index];
     console.log('dynamically loaded index:  ', index);
     return (
@@ -28,7 +28,7 @@ const MangaCovers = ({ mangaEntries, className = '' }: PropTypes) => {
           layout='horizontal'
           itemSize={() => 100}
         >
-          {Column as any}
+          {Column}
         </List>
       )}
     </AutoSizer>
