@@ -1,18 +1,29 @@
+import { Link } from '@tanstack/react-location';
+import { useDispatch } from 'react-redux';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { VariableSizeList as List } from 'react-window';
+import { setMangaEntry } from '../containers/mangaDetail/mangaDetailSlice';
 import { MangaEntry } from '../services/MangaService';
 
 type PropTypes = { mangaEntries: MangaEntry[]; className?: string | undefined };
 
 const MangaCovers = ({ mangaEntries, className = '' }: PropTypes) => {
+  const dispatch = useDispatch();
   const Column = ({ index, style }: { index: number; style: Object }) => {
-    const { coverURL, title, id } = mangaEntries[index];
-    console.log('dynamically loaded index:  ', index);
+    const { coverURL, title, id, description, author } = mangaEntries[index];
+
     return (
-      <div className='p-1' key={index} data-index={index} style={style}>
-        <img src={coverURL} alt={title} id={id} className='rounded-md' />
-        <text>{title}</text>
-      </div>
+      <Link
+        to='/mangaDetail'
+        onClick={() => {
+          dispatch(setMangaEntry({ coverURL, title, id, description, author }));
+        }}
+      >
+        <div className='p-1' key={index} data-index={index} style={style}>
+          <img src={coverURL} alt={title} id={id} className='rounded-md' />
+          <text>{title}</text>
+        </div>
+      </Link>
     );
   };
   return (

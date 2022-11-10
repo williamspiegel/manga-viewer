@@ -25,11 +25,14 @@ export class MangaDex implements MangaService {
           //TODO: dynamically localize title + fallback to en
           title: curr?.attributes?.title['en'],
           coverURL: `${BASE_URL_CDN}/covers/${curr?.id}/${fileName}.512.jpg`,
+          // TODO: look further into MangaDex documentation on how to retrieve author (might require separate query)
+          author: '',
+          description: curr?.attributes?.description['en'],
         };
       });
     } catch (error) {
       console.error('MangaDex::getMangaList error:  ', error);
-      return [{ id: '', title: '', coverURL: '' }];
+      return [{ id: '', title: '', coverURL: '', author: '', description: '' }];
     }
   }
 }
