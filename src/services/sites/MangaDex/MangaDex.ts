@@ -10,7 +10,7 @@ export class MangaDex implements MangaService {
     const config: AxiosRequestConfig = {
       method: 'get',
       baseURL: BASE_URL,
-      url: `/manga?title=${query}&includes[]=cover_art&includes[]=chapter`,
+      url: `/manga?title=${query}&limit=100&includes[]=cover_art&includes[]=chapter`,
     };
 
     try {
@@ -24,7 +24,7 @@ export class MangaDex implements MangaService {
           id: curr?.id,
           //TODO: dynamically localize title + fallback to en
           title: curr?.attributes?.title['en'],
-          coverURL: `${BASE_URL_CDN}/covers/${curr?.id}/${fileName}.256.jpg`,
+          coverURL: `${BASE_URL_CDN}/covers/${curr?.id}/${fileName}.512.jpg`,
         };
       });
     } catch (error) {
