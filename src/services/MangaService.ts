@@ -15,6 +15,20 @@ export type MangaEntry = {
   coverURL: string;
 };
 
+export type Chapter = {
+  // ID of chapter
+  id: string;
+
+  // Title of chapter (please prepend volume and chapter here if available)
+  title: string;
+
+  // scanlationAuthor (if required by API ToS)
+  scanlationAuthor?: string;
+};
+
 export abstract class MangaService {
   static getMangaList: (query: string) => Promise<MangaEntry[]>;
+  static getChapters: (id: string) => Promise<Chapter[]>;
+  // get URLs for each page of chapter
+  static getPages: (id: string) => Promise<string[]>;
 }

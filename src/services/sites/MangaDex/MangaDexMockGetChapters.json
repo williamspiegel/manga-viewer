@@ -1,0 +1,5201 @@
+{
+  "result": "ok",
+  "response": "collection",
+  "data": [
+    {
+      "id": "dbb3338c-c380-423b-a497-2383d70cfdec",
+      "type": "chapter",
+      "attributes": {
+        "volume": "35",
+        "chapter": "310",
+        "title": "Kapal Hantu (3)",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-10-25T13:49:18+00:00",
+        "readableAt": "2022-10-25T13:49:18+00:00",
+        "createdAt": "2022-10-25T13:49:18+00:00",
+        "updatedAt": "2022-10-25T13:50:06+00:00",
+        "pages": 19,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "9d87e2b0-00a2-41ef-a61e-092b1af9822b",
+      "type": "chapter",
+      "attributes": {
+        "volume": "36",
+        "chapter": "316",
+        "title": "Bulan Purnama (1)",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-10-31T18:20:33+00:00",
+        "readableAt": "2022-10-31T18:20:33+00:00",
+        "createdAt": "2022-10-31T18:20:32+00:00",
+        "updatedAt": "2022-10-31T18:21:50+00:00",
+        "pages": 36,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "52b3e56d-7f33-4b28-ae1d-f13545132b66",
+      "type": "chapter",
+      "attributes": {
+        "volume": "32",
+        "chapter": "286",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-27T07:55:15+00:00",
+        "readableAt": "2022-02-27T07:55:15+00:00",
+        "createdAt": "2022-02-27T07:55:15+00:00",
+        "updatedAt": "2022-02-27T07:55:27+00:00",
+        "pages": 24,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ee294a4b-6200-448a-b284-db0eb0714f75",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk HQ Update en español",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "galaxiesound@gmail.com",
+            "description": "",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": [],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-27T06:29:06+00:00",
+            "updatedAt": "2022-02-27T06:29:06+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "53506409-8ee9-4846-9b7d-45d71f9c51b6",
+      "type": "chapter",
+      "attributes": {
+        "volume": "18",
+        "chapter": "139",
+        "title": "Dasar Tanah Suci",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-04-09T14:37:03+00:00",
+        "readableAt": "2022-04-09T14:37:03+00:00",
+        "createdAt": "2022-04-09T14:37:03+00:00",
+        "updatedAt": "2022-04-09T14:37:13+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5351098e-f503-4524-b40e-39a7a9c6b753",
+      "type": "chapter",
+      "attributes": {
+        "volume": "26",
+        "chapter": "226",
+        "title": "The Berserker Armor, Part 2",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-04T02:14:56+00:00",
+        "readableAt": "2018-02-04T02:14:56+00:00",
+        "createdAt": "2018-02-04T02:14:56+00:00",
+        "updatedAt": "2018-02-04T02:14:56+00:00",
+        "pages": 22,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5384b743-994a-4be6-b98d-b564116e5953",
+      "type": "chapter",
+      "attributes": {
+        "volume": "8",
+        "chapter": "35",
+        "title": "Le jour du départ (2)",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T15:44:06+00:00",
+        "readableAt": "2020-08-04T15:44:06+00:00",
+        "createdAt": "2020-08-04T15:44:06+00:00",
+        "updatedAt": "2021-05-17T02:39:51+00:00",
+        "pages": 23,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "9538d0b8-586d-4db4-bbd5-3e538da8ee9b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fun-Center",
+            "altNames": [
+              {
+                "en": "Ochaku na no Chimu"
+              }
+            ],
+            "locked": false,
+            "website": "http://fun-center.fr/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "Team fermée",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "53995e01-da3d-48db-bed2-da0e05cdf346",
+      "type": "chapter",
+      "attributes": {
+        "volume": "33",
+        "chapter": "296",
+        "title": "Небеса похитнулись",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-08-26T13:44:55+00:00",
+        "readableAt": "2022-08-26T13:44:55+00:00",
+        "createdAt": "2022-08-26T13:44:55+00:00",
+        "updatedAt": "2022-08-26T13:45:10+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "53b780cd-3bcc-494d-a3c6-7ebb31c74bdb",
+      "type": "chapter",
+      "attributes": {
+        "volume": "31",
+        "chapter": "286",
+        "title": "Восточная магия",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T18:02:27+00:00",
+        "readableAt": "2018-05-03T18:02:27+00:00",
+        "createdAt": "2018-05-03T18:02:27+00:00",
+        "updatedAt": "2018-05-03T18:02:27+00:00",
+        "pages": 21,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "53c7415f-640f-46ac-ad0d-1bfc6e91426a",
+      "type": "chapter",
+      "attributes": {
+        "volume": "11",
+        "chapter": "68",
+        "title": "Літун",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-07-23T17:07:37+00:00",
+        "readableAt": "2022-07-23T17:07:37+00:00",
+        "createdAt": "2022-07-23T17:07:36+00:00",
+        "updatedAt": "2022-07-23T17:07:53+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "53dd311b-1460-44d1-8bd3-899633d8e8ca",
+      "type": "chapter",
+      "attributes": {
+        "volume": "22",
+        "chapter": "177",
+        "title": "Винайманий світ",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-08-22T16:03:29+00:00",
+        "readableAt": "2022-08-22T16:03:29+00:00",
+        "createdAt": "2022-08-22T16:03:28+00:00",
+        "updatedAt": "2022-08-22T16:03:34+00:00",
+        "pages": 27,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "541c7b06-9634-48b9-a723-51698452dd97",
+      "type": "chapter",
+      "attributes": {
+        "volume": "25",
+        "chapter": "207",
+        "title": "Magic Sword",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-03T03:31:30+00:00",
+        "readableAt": "2018-02-03T03:31:30+00:00",
+        "createdAt": "2018-02-03T03:31:30+00:00",
+        "updatedAt": "2018-02-03T03:31:30+00:00",
+        "pages": 27,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "549cea07-a932-4503-9c28-ae5d521c4af1",
+      "type": "chapter",
+      "attributes": {
+        "volume": "18",
+        "chapter": "135",
+        "title": "Вежа тіняви, розділ перший",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-08-22T11:36:08+00:00",
+        "readableAt": "2022-08-22T11:36:08+00:00",
+        "createdAt": "2022-08-22T11:36:08+00:00",
+        "updatedAt": "2022-08-22T11:36:20+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "55101eb1-b3d4-4093-8830-597e38985616",
+      "type": "chapter",
+      "attributes": {
+        "volume": "40",
+        "chapter": "351",
+        "title": "Ліс трупів та шпичкуватих кедрів",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-08-28T06:54:13+00:00",
+        "readableAt": "2022-08-28T06:54:13+00:00",
+        "createdAt": "2022-08-28T06:54:13+00:00",
+        "updatedAt": "2022-08-28T06:54:28+00:00",
+        "pages": 31,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "556c5527-64cf-43f7-beba-b2a583f44071",
+      "type": "chapter",
+      "attributes": {
+        "volume": "33",
+        "chapter": "295",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-27T08:07:03+00:00",
+        "readableAt": "2022-02-27T08:07:03+00:00",
+        "createdAt": "2022-02-27T08:07:02+00:00",
+        "updatedAt": "2022-02-27T08:07:12+00:00",
+        "pages": 23,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ee294a4b-6200-448a-b284-db0eb0714f75",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk HQ Update en español",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "galaxiesound@gmail.com",
+            "description": "",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": [],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-27T06:29:06+00:00",
+            "updatedAt": "2022-02-27T06:29:06+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "52ac489c-1289-46ef-8007-c5601fea923b",
+      "type": "chapter",
+      "attributes": {
+        "volume": "19",
+        "chapter": "149",
+        "title": "Ambuscade",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:02:53+00:00",
+        "readableAt": "2020-08-04T16:02:53+00:00",
+        "createdAt": "2020-08-04T16:02:53+00:00",
+        "updatedAt": "2020-08-04T16:02:53+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "9538d0b8-586d-4db4-bbd5-3e538da8ee9b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fun-Center",
+            "altNames": [
+              {
+                "en": "Ochaku na no Chimu"
+              }
+            ],
+            "locked": false,
+            "website": "http://fun-center.fr/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "Team fermée",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5599dd06-a174-4fdc-9a18-ef97d48ed9e6",
+      "type": "chapter",
+      "attributes": {
+        "volume": "29",
+        "chapter": "250",
+        "title": "Bölüm 250",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-25T12:50:49+00:00",
+        "readableAt": "2021-08-25T12:50:49+00:00",
+        "createdAt": "2021-08-25T12:50:49+00:00",
+        "updatedAt": "2021-08-25T12:51:05+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "55a4a238-6793-4a05-a3b5-406b36654e51",
+      "type": "chapter",
+      "attributes": {
+        "volume": "27",
+        "chapter": "234",
+        "title": "",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:14:35+00:00",
+        "readableAt": "2020-08-04T16:14:35+00:00",
+        "createdAt": "2020-08-04T16:14:35+00:00",
+        "updatedAt": "2020-08-04T16:14:35+00:00",
+        "pages": 18,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "9538d0b8-586d-4db4-bbd5-3e538da8ee9b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fun-Center",
+            "altNames": [
+              {
+                "en": "Ochaku na no Chimu"
+              }
+            ],
+            "locked": false,
+            "website": "http://fun-center.fr/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "Team fermée",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "55cdf6d3-8d80-4180-bd7e-f1204f527c94",
+      "type": "chapter",
+      "attributes": {
+        "volume": "23",
+        "chapter": "193",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-23T23:36:38+00:00",
+        "readableAt": "2022-02-23T23:36:38+00:00",
+        "createdAt": "2022-02-23T23:36:37+00:00",
+        "updatedAt": "2022-02-23T23:36:48+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "0c3e92ac-359b-4d85-9b57-a7554b2d7077",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fruit Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "https://fruitscans.blogspot.com",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "fruitscans@gmail.com",
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es-la"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5605f4e5-6643-4277-9df7-f8e57f0aecc8",
+      "type": "chapter",
+      "attributes": {
+        "volume": "19",
+        "chapter": "150",
+        "title": "Precipício",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T11:00:36+00:00",
+        "readableAt": "2018-05-02T11:00:36+00:00",
+        "createdAt": "2018-05-02T11:00:36+00:00",
+        "updatedAt": "2021-05-17T02:39:53+00:00",
+        "pages": 19,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "8090b646-d4f8-4687-a392-05aaaa9dde91",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Kousen Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://kousenscans.com.br/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "560645ba-2069-4a40-a7e2-99f57afb992b",
+      "type": "chapter",
+      "attributes": {
+        "volume": "16",
+        "chapter": "113",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-23T21:56:06+00:00",
+        "readableAt": "2022-02-23T21:56:06+00:00",
+        "createdAt": "2022-02-23T21:56:06+00:00",
+        "updatedAt": "2022-02-23T21:56:10+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "0a371ca9-8b8d-42cf-a7d6-1ba6bd6fc181",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "NsG Manga Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://nsgmanga.blogspot.com/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5626d4c6-caa4-4389-a986-64b61102d2bc",
+      "type": "chapter",
+      "attributes": {
+        "volume": "10",
+        "chapter": "67",
+        "title": "Канун Торжества - I",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:28:55+00:00",
+        "readableAt": "2018-05-03T17:28:55+00:00",
+        "createdAt": "2018-05-03T17:28:55+00:00",
+        "updatedAt": "2018-05-03T17:28:55+00:00",
+        "pages": 21,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "560d9f2c-d866-4810-a2e8-80655457bff7",
+      "type": "chapter",
+      "attributes": {
+        "volume": "35",
+        "chapter": "313",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-27T08:36:20+00:00",
+        "readableAt": "2022-02-27T08:36:20+00:00",
+        "createdAt": "2022-02-27T08:36:19+00:00",
+        "updatedAt": "2022-02-27T08:36:29+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ee294a4b-6200-448a-b284-db0eb0714f75",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk HQ Update en español",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "galaxiesound@gmail.com",
+            "description": "",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": [],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-27T06:29:06+00:00",
+            "updatedAt": "2022-02-27T06:29:06+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "563b9db2-968a-401c-92bc-ff69a27236a4",
+      "type": "chapter",
+      "attributes": {
+        "volume": "13",
+        "chapter": "81",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-23T19:55:39+00:00",
+        "readableAt": "2022-02-23T19:55:39+00:00",
+        "createdAt": "2022-02-23T19:55:39+00:00",
+        "updatedAt": "2022-02-23T19:55:59+00:00",
+        "pages": 24,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "0a371ca9-8b8d-42cf-a7d6-1ba6bd6fc181",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "NsG Manga Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://nsgmanga.blogspot.com/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "56913ee2-0845-4f37-b542-47fb043898f0",
+      "type": "chapter",
+      "attributes": {
+        "volume": "23",
+        "chapter": "189",
+        "title": "Tempo Desperdiçado",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T11:10:40+00:00",
+        "readableAt": "2018-05-02T11:10:40+00:00",
+        "createdAt": "2018-05-02T11:10:40+00:00",
+        "updatedAt": "2021-05-17T02:39:53+00:00",
+        "pages": 21,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "8090b646-d4f8-4687-a392-05aaaa9dde91",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Kousen Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://kousenscans.com.br/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "56a61e32-9311-40e6-af2f-ced872dc062f",
+      "type": "chapter",
+      "attributes": {
+        "volume": "37",
+        "chapter": "326",
+        "title": "Canto em Coro",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T11:37:13+00:00",
+        "readableAt": "2018-05-02T11:37:13+00:00",
+        "createdAt": "2018-05-02T11:37:13+00:00",
+        "updatedAt": "2018-05-02T11:37:13+00:00",
+        "pages": 18,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ba83b2a6-7b2f-431b-9cae-4436cd8cce42",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Anima Regia",
+            "altNames": [
+              {
+                "en": "AnimaRegia Scantrad"
+              }
+            ],
+            "locked": false,
+            "website": "http://animaregia.net",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": "T7XXzNN",
+            "contactEmail": "animaregia@live.com",
+            "description": "AnimaRegia Scantrad, Brazilian group born on June 2007, a bunch of old people and some crazy young ones that does manga to waste the precious time of their garbage life.  \n  \nVisite a gente e comente em nosso site caraio!",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "56b2f474-4820-424f-8b27-4b51aba91163",
+      "type": "chapter",
+      "attributes": {
+        "volume": "7",
+        "chapter": "23",
+        "title": "Битва за Долдрей I",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2022-06-20T19:50:30+00:00",
+        "readableAt": "2022-06-20T19:50:30+00:00",
+        "createdAt": "2022-06-20T19:50:30+00:00",
+        "updatedAt": "2022-06-20T19:50:37+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "2eeee16f-8fcb-4150-a4bb-28691ff6d871",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "56b88e96-6f8d-470e-955c-2e95f044c4fa",
+      "type": "chapter",
+      "attributes": {
+        "volume": "20",
+        "chapter": "156",
+        "title": "Mereka yang menari di puncak, mereka yang merayap dalam kedalaman",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-04-19T14:55:56+00:00",
+        "readableAt": "2022-04-19T14:55:56+00:00",
+        "createdAt": "2022-04-19T14:55:56+00:00",
+        "updatedAt": "2022-04-19T14:56:06+00:00",
+        "pages": 19,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "56c44980-6b43-48ae-8918-4ae4008bd2ce",
+      "type": "chapter",
+      "attributes": {
+        "volume": "9",
+        "chapter": "38",
+        "title": "Початок нескінченної ночі",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-07-05T16:24:17+00:00",
+        "readableAt": "2022-07-05T16:24:17+00:00",
+        "createdAt": "2022-07-05T16:24:16+00:00",
+        "updatedAt": "2022-07-05T16:24:22+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "56f2a16a-a9da-4af2-81f4-cb6dc4ac62cb",
+      "type": "chapter",
+      "attributes": {
+        "volume": "27",
+        "chapter": "228",
+        "title": "Kedalaman Api Neraka",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-07-07T12:21:53+00:00",
+        "readableAt": "2022-07-07T12:21:53+00:00",
+        "createdAt": "2022-07-07T12:21:53+00:00",
+        "updatedAt": "2022-07-07T12:21:58+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "573a9995-28fe-4e11-aab4-db87d49dd65c",
+      "type": "chapter",
+      "attributes": {
+        "volume": "2",
+        "chapter": "0.04",
+        "title": "O guardião do Anjo do desejo (2)",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2022-05-30T22:33:33+00:00",
+        "readableAt": "2022-05-30T22:33:33+00:00",
+        "createdAt": "2022-05-30T22:33:33+00:00",
+        "updatedAt": "2022-05-30T22:34:00+00:00",
+        "pages": 117,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "8090b646-d4f8-4687-a392-05aaaa9dde91",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Kousen Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://kousenscans.com.br/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "7014d0f0-cea5-4d8b-b28c-a9aaf7f773b5",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "577bd71b-b53e-40ec-9def-1242a952474f",
+      "type": "chapter",
+      "attributes": {
+        "volume": "8",
+        "chapter": "30",
+        "title": "Мить слави",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-07-01T16:43:38+00:00",
+        "readableAt": "2022-07-01T16:43:38+00:00",
+        "createdAt": "2022-07-01T16:43:37+00:00",
+        "updatedAt": "2022-08-28T15:36:31+00:00",
+        "pages": 21,
+        "version": 4
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "57ac390a-4998-4cc1-a3ec-1b802fba2fa0",
+      "type": "chapter",
+      "attributes": {
+        "volume": "24",
+        "chapter": "200",
+        "title": "Mansion of the Spirit Tree, Part 2",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-03T03:27:36+00:00",
+        "readableAt": "2018-02-03T03:27:36+00:00",
+        "createdAt": "2018-02-03T03:27:36+00:00",
+        "updatedAt": "2018-02-03T03:27:36+00:00",
+        "pages": 19,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "58b6a5f2-b1f5-475d-9ccf-0d366f3e78fa",
+      "type": "chapter",
+      "attributes": {
+        "volume": "15",
+        "chapter": "109",
+        "title": "Lembah Berkabut (2)",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-03-29T16:47:06+00:00",
+        "readableAt": "2022-03-29T16:47:06+00:00",
+        "createdAt": "2022-03-29T16:47:06+00:00",
+        "updatedAt": "2022-03-29T16:47:10+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "58d7ed96-b817-471b-8ebb-f8abd33edc85",
+      "type": "chapter",
+      "attributes": {
+        "volume": "26",
+        "chapter": "220",
+        "title": "Whore Princess of the Uterine Sea",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-04T02:04:23+00:00",
+        "readableAt": "2018-02-04T02:04:23+00:00",
+        "createdAt": "2018-02-04T02:04:23+00:00",
+        "updatedAt": "2018-02-04T02:04:23+00:00",
+        "pages": 22,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5900e1ee-115e-47c1-9c63-074934af7368",
+      "type": "chapter",
+      "attributes": {
+        "volume": "23",
+        "chapter": "205",
+        "title": "Алчущий дух",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:49:59+00:00",
+        "readableAt": "2018-05-03T17:49:59+00:00",
+        "createdAt": "2018-05-03T17:49:59+00:00",
+        "updatedAt": "2018-05-03T17:49:59+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5903ac3b-b410-4b94-a523-4737bdea4e00",
+      "type": "chapter",
+      "attributes": {
+        "volume": "11",
+        "chapter": "59",
+        "title": "Devil Dogs (1)",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-01T02:20:04+00:00",
+        "readableAt": "2018-02-01T02:20:04+00:00",
+        "createdAt": "2018-02-01T02:20:04+00:00",
+        "updatedAt": "2018-02-01T02:20:04+00:00",
+        "pages": 25,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5902af09-3547-4f4f-9e97-87abf0f048aa",
+      "type": "chapter",
+      "attributes": {
+        "volume": "22",
+        "chapter": "181",
+        "title": "Prelúdio das Crônicas de Guerra",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T11:09:17+00:00",
+        "readableAt": "2018-05-02T11:09:17+00:00",
+        "createdAt": "2018-05-02T11:09:17+00:00",
+        "updatedAt": "2021-05-17T02:39:55+00:00",
+        "pages": 17,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "8090b646-d4f8-4687-a392-05aaaa9dde91",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Kousen Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://kousenscans.com.br/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "593b6d83-d58b-4f0c-acdf-4e7e41ea1cd7",
+      "type": "chapter",
+      "attributes": {
+        "volume": "38",
+        "chapter": "337",
+        "title": "Ayrılık Köprüsü",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-25T16:58:51+00:00",
+        "readableAt": "2021-08-25T16:58:51+00:00",
+        "createdAt": "2021-08-25T16:58:51+00:00",
+        "updatedAt": "2021-08-25T16:59:08+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "59ca6453-84ca-4f33-af80-b4aa43f7e683",
+      "type": "chapter",
+      "attributes": {
+        "volume": "36",
+        "chapter": "318",
+        "title": "Тени прошлого",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T18:09:46+00:00",
+        "readableAt": "2018-05-03T18:09:46+00:00",
+        "createdAt": "2018-05-03T18:09:46+00:00",
+        "updatedAt": "2018-05-03T18:09:46+00:00",
+        "pages": 19,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5a4915df-4c29-41a9-ad38-544ae56463ec",
+      "type": "chapter",
+      "attributes": {
+        "volume": "30",
+        "chapter": "260",
+        "title": "Intrusi",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-08-26T14:54:17+00:00",
+        "readableAt": "2022-08-26T14:54:17+00:00",
+        "createdAt": "2022-08-26T14:54:17+00:00",
+        "updatedAt": "2022-08-26T14:54:30+00:00",
+        "pages": 17,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5a38d538-53f0-4a7a-8cda-ebf33c637a49",
+      "type": "chapter",
+      "attributes": {
+        "volume": "8",
+        "chapter": "29",
+        "title": "Retorno Triunfante",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T10:28:20+00:00",
+        "readableAt": "2018-05-02T10:28:20+00:00",
+        "createdAt": "2018-05-02T10:28:20+00:00",
+        "updatedAt": "2018-05-02T10:28:20+00:00",
+        "pages": 18,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "8090b646-d4f8-4687-a392-05aaaa9dde91",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Kousen Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://kousenscans.com.br/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5a5c4292-5971-4d8f-b42b-92dc0d160eee",
+      "type": "chapter",
+      "attributes": {
+        "volume": "7",
+        "chapter": "19",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-04-10T20:10:21+00:00",
+        "readableAt": "2022-04-10T20:10:21+00:00",
+        "createdAt": "2022-04-10T20:10:20+00:00",
+        "updatedAt": "2022-04-10T20:10:28+00:00",
+        "pages": 23,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "9ca0a878-9657-4342-9305-907969b01180",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Seinen Den",
+            "altNames": [],
+            "locked": false,
+            "website": "https://seinenden.mforos.com/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "cmam_sd@live.com.mx",
+            "description": "Seinen Den",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es-la"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-09-15T02:25:49+00:00",
+            "version": 3
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5aacd452-a768-44ca-9814-85e60fdde60a",
+      "type": "chapter",
+      "attributes": {
+        "volume": "33",
+        "chapter": "289",
+        "title": "Bataille navale (2)",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:22:02+00:00",
+        "readableAt": "2020-08-04T16:22:02+00:00",
+        "createdAt": "2020-08-04T16:22:02+00:00",
+        "updatedAt": "2020-08-04T16:22:02+00:00",
+        "pages": 16,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5ae89795-64c4-4f2b-befb-5079b702904d",
+      "type": "chapter",
+      "attributes": {
+        "volume": "24",
+        "chapter": "197",
+        "title": "Bölüm 197",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-24T17:36:36+00:00",
+        "readableAt": "2021-08-24T17:36:36+00:00",
+        "createdAt": "2021-08-24T17:36:36+00:00",
+        "updatedAt": "2021-08-24T17:37:10+00:00",
+        "pages": 24,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5b4df93a-b7d8-4059-b50d-555b32f15dd2",
+      "type": "chapter",
+      "attributes": {
+        "volume": "17",
+        "chapter": "143",
+        "title": "Откровение III",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:41:05+00:00",
+        "readableAt": "2018-05-03T17:41:05+00:00",
+        "createdAt": "2018-05-03T17:41:05+00:00",
+        "updatedAt": "2018-05-03T17:41:05+00:00",
+        "pages": 21,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "5bb09a8c-d5a8-4ea6-a1f7-601b6dc1b9e1",
+      "type": "chapter",
+      "attributes": {
+        "volume": "24",
+        "chapter": "202",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-23T23:41:51+00:00",
+        "readableAt": "2022-02-23T23:41:51+00:00",
+        "createdAt": "2022-02-23T23:41:51+00:00",
+        "updatedAt": "2022-02-23T23:42:15+00:00",
+        "pages": 23,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "0c3e92ac-359b-4d85-9b57-a7554b2d7077",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fruit Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "https://fruitscans.blogspot.com",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "fruitscans@gmail.com",
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es-la"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0315f13b-e46f-40d1-b636-6c95831a65ac",
+      "type": "chapter",
+      "attributes": {
+        "volume": "21",
+        "chapter": "168",
+        "title": "Prière fantomatique (2)",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:05:59+00:00",
+        "readableAt": "2020-08-04T16:05:59+00:00",
+        "createdAt": "2020-08-04T16:05:59+00:00",
+        "updatedAt": "2021-05-17T02:38:51+00:00",
+        "pages": 21,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "9538d0b8-586d-4db4-bbd5-3e538da8ee9b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fun-Center",
+            "altNames": [
+              {
+                "en": "Ochaku na no Chimu"
+              }
+            ],
+            "locked": false,
+            "website": "http://fun-center.fr/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "Team fermée",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "031af05f-8885-483b-9f8f-78910022dca8",
+      "type": "chapter",
+      "attributes": {
+        "volume": "9",
+        "chapter": "42",
+        "title": "الهاربون",
+        "translatedLanguage": "ar",
+        "externalUrl": null,
+        "publishAt": "2020-06-10T08:23:13+00:00",
+        "readableAt": "2020-06-10T08:23:13+00:00",
+        "createdAt": "2020-06-10T08:23:13+00:00",
+        "updatedAt": "2020-06-10T08:23:13+00:00",
+        "pages": 22,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "55c139d5-a221-4ce1-a2c3-35fb20e4aa7a",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Blackhateam",
+            "altNames": [],
+            "locked": false,
+            "website": "https://blackhateam1.blogspot.com/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": "rd8hpJhE",
+            "contactEmail": "ssaarr.sa57@gmail.com",
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ar"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-10-22T15:50:12+00:00",
+            "version": 3
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "5fb20af7-fb3b-4b8c-8d80-b07888e28180",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "034c5396-9c05-49e2-8584-c68bacd3bb63",
+      "type": "chapter",
+      "attributes": {
+        "volume": "16",
+        "chapter": "120",
+        "title": "Les chevaliers des saintes chaînes d'argent (2)",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T15:58:06+00:00",
+        "readableAt": "2020-08-04T15:58:06+00:00",
+        "createdAt": "2020-08-04T15:58:06+00:00",
+        "updatedAt": "2021-05-17T02:38:51+00:00",
+        "pages": 20,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "9538d0b8-586d-4db4-bbd5-3e538da8ee9b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fun-Center",
+            "altNames": [
+              {
+                "en": "Ochaku na no Chimu"
+              }
+            ],
+            "locked": false,
+            "website": "http://fun-center.fr/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "Team fermée",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "03462ebd-7b41-4129-9363-bc58bfba2e2c",
+      "type": "chapter",
+      "attributes": {
+        "volume": "38",
+        "chapter": "338",
+        "title": "La mort arrive au crépuscule",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:30:43+00:00",
+        "readableAt": "2020-08-04T16:30:43+00:00",
+        "createdAt": "2020-08-04T16:30:43+00:00",
+        "updatedAt": "2021-05-17T02:38:51+00:00",
+        "pages": 20,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "8d3774b3-4264-4d20-99b9-5aeeed12d21b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "One Piece Scan",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "03b99ce5-c7de-4b2b-b044-6442e11b7a5b",
+      "type": "chapter",
+      "attributes": {
+        "volume": "11",
+        "chapter": "64",
+        "title": "Ліс трагедії",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-07-21T23:02:09+00:00",
+        "readableAt": "2022-07-21T23:02:09+00:00",
+        "createdAt": "2022-07-21T23:02:09+00:00",
+        "updatedAt": "2022-07-21T23:02:15+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "03ca44ea-bedb-463a-9c2c-ea3b68c2b562",
+      "type": "chapter",
+      "attributes": {
+        "volume": "14",
+        "chapter": "94",
+        "title": "He Who Hunts Dragons",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-01T03:57:57+00:00",
+        "readableAt": "2018-02-01T03:57:57+00:00",
+        "createdAt": "2018-02-01T03:57:57+00:00",
+        "updatedAt": "2018-02-01T03:57:57+00:00",
+        "pages": 24,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "044ae5f0-195f-4361-8fe6-a3f0104e6bce",
+      "type": "chapter",
+      "attributes": {
+        "volume": "39",
+        "chapter": "348",
+        "title": "Затуманенные пустоши ",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2022-06-25T17:57:50+00:00",
+        "readableAt": "2022-06-25T17:57:50+00:00",
+        "createdAt": "2022-06-25T17:57:50+00:00",
+        "updatedAt": "2022-06-25T17:58:01+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "2eeee16f-8fcb-4150-a4bb-28691ff6d871",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "044ea066-c759-4385-92c8-831e24371234",
+      "type": "chapter",
+      "attributes": {
+        "volume": "29",
+        "chapter": "251",
+        "title": "Dans le jardin",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:16:19+00:00",
+        "readableAt": "2020-08-04T16:16:19+00:00",
+        "createdAt": "2020-08-04T16:16:19+00:00",
+        "updatedAt": "2020-08-04T16:16:19+00:00",
+        "pages": 21,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "9538d0b8-586d-4db4-bbd5-3e538da8ee9b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fun-Center",
+            "altNames": [
+              {
+                "en": "Ochaku na no Chimu"
+              }
+            ],
+            "locked": false,
+            "website": "http://fun-center.fr/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "Team fermée",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "047fd02b-e7b2-4b2c-9dfd-4db47f4348f1",
+      "type": "chapter",
+      "attributes": {
+        "volume": "7",
+        "chapter": "26",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-23T19:23:00+00:00",
+        "readableAt": "2022-02-23T19:23:00+00:00",
+        "createdAt": "2022-02-23T19:23:00+00:00",
+        "updatedAt": "2022-02-23T19:23:09+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "0a371ca9-8b8d-42cf-a7d6-1ba6bd6fc181",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "NsG Manga Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://nsgmanga.blogspot.com/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "04e0dac1-6cca-46e4-ae5e-36e3cce0bf32",
+      "type": "chapter",
+      "attributes": {
+        "volume": "26",
+        "chapter": "219",
+        "title": "Vicinity of the Netherworld",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-04T02:02:54+00:00",
+        "readableAt": "2018-02-04T02:02:54+00:00",
+        "createdAt": "2018-02-04T02:02:54+00:00",
+        "updatedAt": "2018-02-04T02:02:54+00:00",
+        "pages": 22,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "04ed7ab1-68b9-4b71-b4a9-572d2c97a874",
+      "type": "chapter",
+      "attributes": {
+        "volume": "25",
+        "chapter": "215",
+        "title": "Qliphoth",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-06-24T16:08:28+00:00",
+        "readableAt": "2022-06-24T16:08:28+00:00",
+        "createdAt": "2022-06-24T16:08:28+00:00",
+        "updatedAt": "2022-06-24T16:08:32+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0508eb80-c9dc-49f8-86b6-b758f3c7c808",
+      "type": "chapter",
+      "attributes": {
+        "volume": "21",
+        "chapter": "189",
+        "title": "Рассвет",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:47:38+00:00",
+        "readableAt": "2018-05-03T17:47:38+00:00",
+        "createdAt": "2018-05-03T17:47:38+00:00",
+        "updatedAt": "2018-05-03T17:47:38+00:00",
+        "pages": 18,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0597921c-65ba-466c-9f46-404c81cedc28",
+      "type": "chapter",
+      "attributes": {
+        "volume": "7",
+        "chapter": "42",
+        "title": "Взятие Долдрей IV",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:25:00+00:00",
+        "readableAt": "2018-05-03T17:25:00+00:00",
+        "createdAt": "2018-05-03T17:25:00+00:00",
+        "updatedAt": "2018-05-03T17:25:00+00:00",
+        "pages": 22,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "05951c06-f2f1-479b-b2e9-249fa0aea873",
+      "type": "chapter",
+      "attributes": {
+        "volume": "6",
+        "chapter": "15",
+        "title": "Каска, розділ перший",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-06-15T14:48:44+00:00",
+        "readableAt": "2022-06-15T14:48:44+00:00",
+        "createdAt": "2022-06-15T14:48:43+00:00",
+        "updatedAt": "2022-06-15T14:48:49+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "05cdcf0c-d97e-47be-930a-7c4c051b8041",
+      "type": "chapter",
+      "attributes": {
+        "volume": "19",
+        "chapter": "148",
+        "title": "The Reunion",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-02T22:21:03+00:00",
+        "readableAt": "2018-02-02T22:21:03+00:00",
+        "createdAt": "2018-02-02T22:21:03+00:00",
+        "updatedAt": "2018-02-02T22:21:03+00:00",
+        "pages": 24,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "062623db-b9d6-465d-bf1b-2628534e5652",
+      "type": "chapter",
+      "attributes": {
+        "volume": "30",
+        "chapter": "259",
+        "title": "",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:17:14+00:00",
+        "readableAt": "2020-08-04T16:17:14+00:00",
+        "createdAt": "2020-08-04T16:17:14+00:00",
+        "updatedAt": "2020-08-04T16:17:14+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "7905276d-ce44-4337-bc2c-be4be3aafd08",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk Crew",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "9538d0b8-586d-4db4-bbd5-3e538da8ee9b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Fun-Center",
+            "altNames": [
+              {
+                "en": "Ochaku na no Chimu"
+              }
+            ],
+            "locked": false,
+            "website": "http://fun-center.fr/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "Team fermée",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0634e42f-e5d0-4f6b-b2bb-044339372936",
+      "type": "chapter",
+      "attributes": {
+        "volume": "1",
+        "chapter": "0.02",
+        "title": "La marca",
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2021-09-16T04:34:50+00:00",
+        "readableAt": "2021-09-16T04:34:50+00:00",
+        "createdAt": "2021-09-16T04:34:50+00:00",
+        "updatedAt": "2021-09-16T04:48:46+00:00",
+        "pages": 69,
+        "version": 8
+      },
+      "relationships": [
+        {
+          "id": "9ca0a878-9657-4342-9305-907969b01180",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Seinen Den",
+            "altNames": [],
+            "locked": false,
+            "website": "https://seinenden.mforos.com/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "cmam_sd@live.com.mx",
+            "description": "Seinen Den",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es-la"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-09-15T02:25:49+00:00",
+            "version": 3
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "7083af20-87f1-4f71-8413-bf316f938f06",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "065d4f99-4de4-4fc1-82e6-31f8714292e6",
+      "type": "chapter",
+      "attributes": {
+        "volume": "25",
+        "chapter": "207",
+        "title": "Bölüm 207",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-24T21:52:48+00:00",
+        "readableAt": "2021-08-24T21:52:48+00:00",
+        "createdAt": "2021-08-24T21:52:47+00:00",
+        "updatedAt": "2021-08-24T21:53:15+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "06a8e843-e356-4f5f-830b-90fec61169ce",
+      "type": "chapter",
+      "attributes": {
+        "volume": "19",
+        "chapter": "154",
+        "title": "Bölüm 154",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-24T16:12:32+00:00",
+        "readableAt": "2021-08-24T16:12:32+00:00",
+        "createdAt": "2021-08-24T16:12:32+00:00",
+        "updatedAt": "2021-08-24T16:12:38+00:00",
+        "pages": 20,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "06ac3e48-339e-4f3b-988e-fec942fdf5af",
+      "type": "chapter",
+      "attributes": {
+        "volume": "31",
+        "chapter": "275",
+        "title": "Serangan Tentara Iblis",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-09-16T15:25:40+00:00",
+        "readableAt": "2022-09-16T15:25:40+00:00",
+        "createdAt": "2022-09-16T15:25:39+00:00",
+        "updatedAt": "2022-09-16T15:26:22+00:00",
+        "pages": 18,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "03a6c9ec-c2aa-4ff0-911c-a4696170d261",
+      "type": "chapter",
+      "attributes": {
+        "volume": "4",
+        "chapter": "10",
+        "title": "",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-24T01:07:51+00:00",
+        "readableAt": "2021-08-24T01:07:51+00:00",
+        "createdAt": "2021-08-24T01:07:51+00:00",
+        "updatedAt": "2022-06-19T12:35:01+00:00",
+        "pages": 51,
+        "version": 4
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "06efd495-0846-464b-afb2-8fcccf5c7a4b",
+      "type": "chapter",
+      "attributes": {
+        "volume": "39",
+        "chapter": "347",
+        "title": "Владыка цветочной бури",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2019-04-29T13:19:29+00:00",
+        "readableAt": "2019-04-29T13:19:29+00:00",
+        "createdAt": "2019-04-29T13:19:29+00:00",
+        "updatedAt": "2019-04-29T13:19:29+00:00",
+        "pages": 21,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "a3261385-c4da-4e83-a44b-d27361e0a4ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "076e152b-14fb-4e75-aa73-a2b8abf02070",
+      "type": "chapter",
+      "attributes": {
+        "volume": "20",
+        "chapter": "159",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-23T22:20:22+00:00",
+        "readableAt": "2022-02-23T22:20:22+00:00",
+        "createdAt": "2022-02-23T22:20:22+00:00",
+        "updatedAt": "2022-02-23T22:20:26+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "0a371ca9-8b8d-42cf-a7d6-1ba6bd6fc181",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "NsG Manga Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://nsgmanga.blogspot.com/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["es"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0798f09a-d74a-4c4e-adc4-11612dcf1c35",
+      "type": "chapter",
+      "attributes": {
+        "volume": "18",
+        "chapter": "134",
+        "title": "",
+        "translatedLanguage": "zh-hk",
+        "externalUrl": null,
+        "publishAt": "2021-03-10T07:46:14+00:00",
+        "readableAt": "2021-03-10T07:46:14+00:00",
+        "createdAt": "2021-03-10T07:46:14+00:00",
+        "updatedAt": "2021-03-10T07:46:14+00:00",
+        "pages": 17,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "6fbc54a0-c317-4f9a-8dca-0846858b95de",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "07bd6e0e-fdab-4732-9664-a591ed0a16f1",
+      "type": "chapter",
+      "attributes": {
+        "volume": "32",
+        "chapter": "292",
+        "title": "Живая стрела",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T18:03:23+00:00",
+        "readableAt": "2018-05-03T18:03:23+00:00",
+        "createdAt": "2018-05-03T18:03:23+00:00",
+        "updatedAt": "2018-05-03T18:03:23+00:00",
+        "pages": 27,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "082584ac-bdc6-4069-bffd-596104eb1098",
+      "type": "chapter",
+      "attributes": {
+        "volume": "1",
+        "chapter": "3",
+        "title": "Ангел-хранитель желания I",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:15:21+00:00",
+        "readableAt": "2018-05-03T17:15:21+00:00",
+        "createdAt": "2018-05-03T17:15:21+00:00",
+        "updatedAt": "2018-05-03T17:15:21+00:00",
+        "pages": 62,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "33963140-173a-47f0-bbe5-83171f2b30f3",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Okami",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "08da7beb-05e6-441b-aeb7-8f2e21272c5b",
+      "type": "chapter",
+      "attributes": {
+        "volume": "35",
+        "chapter": "313",
+        "title": "La créature océan maléfique",
+        "translatedLanguage": "fr",
+        "externalUrl": null,
+        "publishAt": "2020-08-04T16:26:29+00:00",
+        "readableAt": "2020-08-04T16:26:29+00:00",
+        "createdAt": "2020-08-04T16:26:29+00:00",
+        "updatedAt": "2021-05-17T02:38:55+00:00",
+        "pages": 21,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "8d3774b3-4264-4d20-99b9-5aeeed12d21b",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "One Piece Scan",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["fr"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1bac894c-2eb8-4884-bd56-0ebf3b37dccd",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0957c722-d218-4f52-b9ed-62dcf05c1c92",
+      "type": "chapter",
+      "attributes": {
+        "volume": "23",
+        "chapter": "192",
+        "title": "Bölüm 192",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-24T17:29:10+00:00",
+        "readableAt": "2021-08-24T17:29:10+00:00",
+        "createdAt": "2021-08-24T17:29:10+00:00",
+        "updatedAt": "2021-08-24T17:29:27+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "098862c8-cb42-4f04-b66e-7923e9074eef",
+      "type": "chapter",
+      "attributes": {
+        "volume": "15",
+        "chapter": "105",
+        "title": "Bölüm 105",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-24T14:56:39+00:00",
+        "readableAt": "2021-08-24T14:56:39+00:00",
+        "createdAt": "2021-08-24T14:56:39+00:00",
+        "updatedAt": "2021-08-24T14:57:00+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "09ee94a8-6320-450d-b85f-f962a03a252c",
+      "type": "chapter",
+      "attributes": {
+        "volume": "10",
+        "chapter": "66",
+        "title": "Проникновение в Виндхейм - II",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:28:48+00:00",
+        "readableAt": "2018-05-03T17:28:48+00:00",
+        "createdAt": "2018-05-03T17:28:48+00:00",
+        "updatedAt": "2018-05-03T17:28:48+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0a742201-81b0-4ca4-9fb4-cafbaf453fd0",
+      "type": "chapter",
+      "attributes": {
+        "volume": "18",
+        "chapter": "135",
+        "title": "Tower of Shadow (1)",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-02T22:08:26+00:00",
+        "readableAt": "2018-02-02T22:08:26+00:00",
+        "createdAt": "2018-02-02T22:08:26+00:00",
+        "updatedAt": "2018-02-02T22:08:26+00:00",
+        "pages": 22,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0a562a11-edef-4f2b-b27b-23e843a7f9ea",
+      "type": "chapter",
+      "attributes": {
+        "volume": "19",
+        "chapter": "147",
+        "title": "Den of Evil",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-02T22:19:57+00:00",
+        "readableAt": "2018-02-02T22:19:57+00:00",
+        "createdAt": "2018-02-02T22:19:57+00:00",
+        "updatedAt": "2018-02-02T22:19:57+00:00",
+        "pages": 23,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0aacfabd-0a9b-40ec-9a13-342da40457cf",
+      "type": "chapter",
+      "attributes": {
+        "volume": "21",
+        "chapter": "173",
+        "title": "Langit Runtuh",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-04-27T15:19:55+00:00",
+        "readableAt": "2022-04-27T15:19:55+00:00",
+        "createdAt": "2022-04-27T15:19:54+00:00",
+        "updatedAt": "2022-04-27T15:20:00+00:00",
+        "pages": 15,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0a5766fb-462f-4fda-823b-1aad33908b1d",
+      "type": "chapter",
+      "attributes": {
+        "volume": "20",
+        "chapter": "159",
+        "title": "The Threatened",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-02T22:34:17+00:00",
+        "readableAt": "2018-02-02T22:34:17+00:00",
+        "createdAt": "2018-02-02T22:34:17+00:00",
+        "updatedAt": "2018-02-02T22:34:17+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0b01c1d9-0983-428c-b928-e133edcfbc28",
+      "type": "chapter",
+      "attributes": {
+        "volume": "16",
+        "chapter": "121",
+        "title": "",
+        "translatedLanguage": "zh-hk",
+        "externalUrl": null,
+        "publishAt": "2021-03-04T14:11:44+00:00",
+        "readableAt": "2021-03-04T14:11:44+00:00",
+        "createdAt": "2021-03-04T14:11:44+00:00",
+        "updatedAt": "2021-03-04T14:11:44+00:00",
+        "pages": 22,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "6fbc54a0-c317-4f9a-8dca-0846858b95de",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0c093ba1-3c9b-42fd-a8c0-35a74f90d01b",
+      "type": "chapter",
+      "attributes": {
+        "volume": "34",
+        "chapter": "303",
+        "title": "Відсвіт",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-08-26T13:55:20+00:00",
+        "readableAt": "2022-08-26T13:55:20+00:00",
+        "createdAt": "2022-08-26T13:55:20+00:00",
+        "updatedAt": "2022-08-26T13:55:27+00:00",
+        "pages": 18,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0c263d35-b8a7-45b5-bd57-842d68482ef8",
+      "type": "chapter",
+      "attributes": {
+        "volume": "15",
+        "chapter": "122",
+        "title": "Преследователи",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:37:38+00:00",
+        "readableAt": "2018-05-03T17:37:38+00:00",
+        "createdAt": "2018-05-03T17:37:38+00:00",
+        "updatedAt": "2018-05-03T17:37:38+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0cabc4ac-0590-4b8d-b476-d79a22f68c87",
+      "type": "chapter",
+      "attributes": {
+        "volume": "14",
+        "chapter": "99",
+        "title": "Букашки-эльфы",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2022-08-15T17:50:18+00:00",
+        "readableAt": "2022-08-15T17:50:18+00:00",
+        "createdAt": "2022-08-15T17:50:18+00:00",
+        "updatedAt": "2022-08-15T17:50:51+00:00",
+        "pages": 26,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "2eeee16f-8fcb-4150-a4bb-28691ff6d871",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0cfd818a-48ca-44b8-8a2e-288722581918",
+      "type": "chapter",
+      "attributes": {
+        "volume": "26",
+        "chapter": "219",
+        "title": "Околиці нижньосвіття",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-08-24T11:01:47+00:00",
+        "readableAt": "2022-08-24T11:01:47+00:00",
+        "createdAt": "2022-08-24T11:01:47+00:00",
+        "updatedAt": "2022-08-24T11:01:52+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0d94e912-0561-43d0-968f-d4fd7c4c6a6f",
+      "type": "chapter",
+      "attributes": {
+        "volume": "34",
+        "chapter": "301",
+        "title": null,
+        "translatedLanguage": "es-la",
+        "externalUrl": null,
+        "publishAt": "2022-02-27T08:16:03+00:00",
+        "readableAt": "2022-02-27T08:16:03+00:00",
+        "createdAt": "2022-02-27T08:16:02+00:00",
+        "updatedAt": "2022-02-27T08:16:12+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ee294a4b-6200-448a-b284-db0eb0714f75",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk HQ Update en español",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "galaxiesound@gmail.com",
+            "description": "",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": [],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-27T06:29:06+00:00",
+            "updatedAt": "2022-02-27T06:29:06+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "dc2db04d-1940-4f7a-9b14-833fa77899ea",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0dbec741-75cf-436c-82e6-d88a8b6db065",
+      "type": "chapter",
+      "attributes": {
+        "volume": "6",
+        "chapter": "11",
+        "title": "Убивця, розділ четвертий",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-06-12T18:13:31+00:00",
+        "readableAt": "2022-06-12T18:13:31+00:00",
+        "createdAt": "2022-06-12T18:13:30+00:00",
+        "updatedAt": "2022-06-12T18:13:37+00:00",
+        "pages": 24,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0e00725e-9604-48b9-af39-bb1bcb8f31cc",
+      "type": "chapter",
+      "attributes": {
+        "volume": "7",
+        "chapter": "18",
+        "title": "Готовність до смерті, розділ перший",
+        "translatedLanguage": "uk",
+        "externalUrl": null,
+        "publishAt": "2022-06-18T16:55:50+00:00",
+        "readableAt": "2022-06-18T16:55:50+00:00",
+        "createdAt": "2022-06-18T16:55:50+00:00",
+        "updatedAt": "2022-06-18T16:56:07+00:00",
+        "pages": 22,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "40eefe2a-d99e-4aa4-b864-55ed68d58309",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "𝕱𝖆𝖑𝖈𝖔𝖓𝖊 𝖉𝖎 𝕷𝖚𝖈𝖊",
+            "altNames": [],
+            "locked": false,
+            "website": "https://t.me/IT_IS_ME1987",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": "So, I'm simply... One hell of a translator. But usually I work alone.",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["uk"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-04-09T21:14:26+00:00",
+            "updatedAt": "2022-04-09T23:56:55+00:00",
+            "version": 2
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "c7e91c3e-eb1c-484a-8275-df19f2e82565",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0e1163a4-1f5a-4107-8e2c-e3791cb7a9cf",
+      "type": "chapter",
+      "attributes": {
+        "volume": "27",
+        "chapter": "231",
+        "title": "Temível Tirano",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T11:17:27+00:00",
+        "readableAt": "2018-05-02T11:17:27+00:00",
+        "createdAt": "2018-05-02T11:17:27+00:00",
+        "updatedAt": "2021-05-17T02:38:58+00:00",
+        "pages": 22,
+        "version": 2
+      },
+      "relationships": [
+        {
+          "id": "ba83b2a6-7b2f-431b-9cae-4436cd8cce42",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Anima Regia",
+            "altNames": [
+              {
+                "en": "AnimaRegia Scantrad"
+              }
+            ],
+            "locked": false,
+            "website": "http://animaregia.net",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": "T7XXzNN",
+            "contactEmail": "animaregia@live.com",
+            "description": "AnimaRegia Scantrad, Brazilian group born on June 2007, a bunch of old people and some crazy young ones that does manga to waste the precious time of their garbage life.  \n  \nVisite a gente e comente em nosso site caraio!",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0e20757e-73c3-4b46-9c90-ada4738b4e5a",
+      "type": "chapter",
+      "attributes": {
+        "volume": "32",
+        "chapter": "277",
+        "title": "Bala Humana",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T11:24:46+00:00",
+        "readableAt": "2018-05-02T11:24:46+00:00",
+        "createdAt": "2018-05-02T11:24:46+00:00",
+        "updatedAt": "2018-05-02T11:24:46+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ba83b2a6-7b2f-431b-9cae-4436cd8cce42",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Anima Regia",
+            "altNames": [
+              {
+                "en": "AnimaRegia Scantrad"
+              }
+            ],
+            "locked": false,
+            "website": "http://animaregia.net",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": "T7XXzNN",
+            "contactEmail": "animaregia@live.com",
+            "description": "AnimaRegia Scantrad, Brazilian group born on June 2007, a bunch of old people and some crazy young ones that does manga to waste the precious time of their garbage life.  \n  \nVisite a gente e comente em nosso site caraio!",
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0e746f56-f112-4554-8e8b-57ef350d4efa",
+      "type": "chapter",
+      "attributes": {
+        "volume": "17",
+        "chapter": "123",
+        "title": "Night of Miracles",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-02T02:33:13+00:00",
+        "readableAt": "2018-02-02T02:33:13+00:00",
+        "createdAt": "2018-02-02T02:33:13+00:00",
+        "updatedAt": "2018-02-02T02:33:13+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0f072040-7b1c-4213-81e8-2993fd90b2ce",
+      "type": "chapter",
+      "attributes": {
+        "volume": "16",
+        "chapter": "115",
+        "title": "Светлячок",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2022-06-24T15:44:12+00:00",
+        "readableAt": "2022-06-24T15:44:12+00:00",
+        "createdAt": "2022-06-24T15:44:12+00:00",
+        "updatedAt": "2022-06-24T15:44:24+00:00",
+        "pages": 21,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "2eeee16f-8fcb-4150-a4bb-28691ff6d871",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0f0bcb4d-9e0e-4ae7-924a-b1a446fea10f",
+      "type": "chapter",
+      "attributes": {
+        "volume": "34",
+        "chapter": "299",
+        "title": "Medan Perang Monster",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-10-15T14:22:00+00:00",
+        "readableAt": "2022-10-15T14:22:00+00:00",
+        "createdAt": "2022-10-15T14:21:59+00:00",
+        "updatedAt": "2022-10-15T14:22:45+00:00",
+        "pages": 18,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "10a40c20-edc8-46e0-a119-2bfa41ceea03",
+      "type": "chapter",
+      "attributes": {
+        "volume": "19",
+        "chapter": "152",
+        "title": "The Iron Maiden",
+        "translatedLanguage": "en",
+        "externalUrl": null,
+        "publishAt": "2018-02-02T22:24:21+00:00",
+        "readableAt": "2018-02-02T22:24:21+00:00",
+        "createdAt": "2018-02-02T22:24:21+00:00",
+        "updatedAt": "2018-02-02T22:24:21+00:00",
+        "pages": 21,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "4b98efe6-e5f2-4077-b9b3-193e3d9c5022",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Band of the Hawks",
+            "altNames": [
+              {
+                "en": "Hawks"
+              }
+            ],
+            "locked": false,
+            "website": "https://web.archive.org/web/20071020172415/http://thehawks.org/",
+            "ircServer": "irc.irchighway.net",
+            "ircChannel": "hawks",
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["en"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "b86e992f-c93c-4286-90d0-e1eba31cadf7",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "10d14daf-7ec1-43bf-ba15-dcabe84fccd1",
+      "type": "chapter",
+      "attributes": {
+        "volume": "1",
+        "chapter": "0.02",
+        "title": "A marca do sacrifício",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2022-05-30T22:17:26+00:00",
+        "readableAt": "2022-05-30T22:17:26+00:00",
+        "createdAt": "2022-05-30T22:17:25+00:00",
+        "updatedAt": "2022-05-30T22:17:32+00:00",
+        "pages": 69,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "8090b646-d4f8-4687-a392-05aaaa9dde91",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Kousen Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://kousenscans.com.br/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "7014d0f0-cea5-4d8b-b28c-a9aaf7f773b5",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0143438f-807a-40cd-9a00-211d9ebed800",
+      "type": "chapter",
+      "attributes": {
+        "volume": "20",
+        "chapter": "165",
+        "title": "A Sombra de uma Ideia (3)",
+        "translatedLanguage": "pt-br",
+        "externalUrl": null,
+        "publishAt": "2018-05-02T11:05:17+00:00",
+        "readableAt": "2018-05-02T11:05:17+00:00",
+        "createdAt": "2018-05-02T11:05:17+00:00",
+        "updatedAt": "2018-05-02T11:05:17+00:00",
+        "pages": 16,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "8090b646-d4f8-4687-a392-05aaaa9dde91",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Kousen Scans",
+            "altNames": [],
+            "locked": false,
+            "website": "http://kousenscans.com.br/",
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["pt-br"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "f0ef39e1-f723-4385-b548-c4dff1cbb596",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "019d3bcd-f098-4f0c-80bf-3f29c49ef0f4",
+      "type": "chapter",
+      "attributes": {
+        "volume": "28",
+        "chapter": "246",
+        "title": "Bölüm 246",
+        "translatedLanguage": "tr",
+        "externalUrl": null,
+        "publishAt": "2021-08-25T12:46:00+00:00",
+        "readableAt": "2021-08-25T12:46:00+00:00",
+        "createdAt": "2021-08-25T12:46:00+00:00",
+        "updatedAt": "2021-08-25T12:46:20+00:00",
+        "pages": 26,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "1ceb9388-cc1b-47a5-b427-820cf7abcfed",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "01e1c7ac-16fc-439d-9638-9e8014a2b361",
+      "type": "chapter",
+      "attributes": {
+        "volume": "32",
+        "chapter": "277",
+        "title": "Peluru Manusia",
+        "translatedLanguage": "id",
+        "externalUrl": null,
+        "publishAt": "2022-09-18T14:33:19+00:00",
+        "readableAt": "2022-09-18T14:33:19+00:00",
+        "createdAt": "2022-09-18T14:33:18+00:00",
+        "updatedAt": "2022-09-18T14:34:39+00:00",
+        "pages": 32,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "dd6d4d25-7e19-4286-a103-afe60105aeac",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Tempat Singgah Scans",
+            "altNames": [],
+            "locked": true,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": "tempatsinggah.cn@gmail.com",
+            "description": "Manga Scanlations group located in Indonesia. Tempat Singgah Scans created first on Facebook in 2020 and decided to expanse the group to Mangadex in 2021. All the work is done by one man, mostly.",
+            "twitter": "https://twitter.com/damnizaki",
+            "mangaUpdates": null,
+            "focusedLanguages": ["id"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2022-02-08T16:28:17+00:00",
+            "updatedAt": "2022-11-07T13:55:59+00:00",
+            "version": 13
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "4f524a18-dbe0-42a3-82df-b624d2370857",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "01d42704-a43c-4268-a885-2fc381be55de",
+      "type": "chapter",
+      "attributes": {
+        "volume": "39",
+        "chapter": "343",
+        "title": "Пламенная марионетка",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2022-09-17T14:54:56+00:00",
+        "readableAt": "2022-09-17T14:54:56+00:00",
+        "createdAt": "2022-09-17T14:54:55+00:00",
+        "updatedAt": "2022-09-17T14:55:35+00:00",
+        "pages": 31,
+        "version": 3
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "2eeee16f-8fcb-4150-a4bb-28691ff6d871",
+          "type": "user"
+        }
+      ]
+    },
+    {
+      "id": "0203da00-f122-4dd6-aa09-8e9e9269990a",
+      "type": "chapter",
+      "attributes": {
+        "volume": "28",
+        "chapter": "256",
+        "title": "Морское чудовище (макара)",
+        "translatedLanguage": "ru",
+        "externalUrl": null,
+        "publishAt": "2018-05-03T17:57:53+00:00",
+        "readableAt": "2018-05-03T17:57:53+00:00",
+        "createdAt": "2018-05-03T17:57:53+00:00",
+        "updatedAt": "2018-05-03T17:57:53+00:00",
+        "pages": 20,
+        "version": 1
+      },
+      "relationships": [
+        {
+          "id": "ac193a20-195b-4768-b1cf-f2a28d24f22d",
+          "type": "scanlation_group",
+          "attributes": {
+            "name": "Berserk World",
+            "altNames": [],
+            "locked": false,
+            "website": null,
+            "ircServer": null,
+            "ircChannel": null,
+            "discord": null,
+            "contactEmail": null,
+            "description": null,
+            "twitter": null,
+            "mangaUpdates": null,
+            "focusedLanguages": ["ru"],
+            "official": false,
+            "verified": false,
+            "inactive": false,
+            "publishDelay": null,
+            "createdAt": "2021-04-19T21:45:59+00:00",
+            "updatedAt": "2021-04-19T21:45:59+00:00",
+            "version": 1
+          }
+        },
+        {
+          "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+          "type": "manga"
+        },
+        {
+          "id": "e19519ce-8c5f-4d7c-8280-704a87d34429",
+          "type": "user"
+        }
+      ]
+    }
+  ],
+  "limit": 100,
+  "offset": 0,
+  "total": 3636
+}
