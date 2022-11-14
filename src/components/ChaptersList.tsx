@@ -6,6 +6,7 @@ import { Chapter } from '../services/MangaService';
 type Props = { chapters: Chapter[]; className?: string };
 
 export default function ChaptersList({ chapters = [], className = '' }: Props) {
+  //TODO: add header prop
   const Row = ({ index, style }: { index: number; style: Object }) => {
     const { id, title, scanlationAuthor = '' } = chapters[index];
 
@@ -23,7 +24,7 @@ export default function ChaptersList({ chapters = [], className = '' }: Props) {
     );
   };
   return (
-    <AutoSizer className={'flex-1 mt-5' + className} style={{ width: '100%' }}>
+    <AutoSizer className={className} style={{ width: '100%' }}>
       {({ width, height }) => (
         <List
           height={height}
