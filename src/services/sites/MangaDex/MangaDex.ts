@@ -17,6 +17,8 @@ export class MangaDex extends MangaService {
     try {
       const response = await axios(config);
       const { data }: typeof MangaDexMockData = response.data;
+
+      // TODO: figure out why curr.relationships.find does not work with data's typedef
       return data?.map((curr: any) => {
         const fileName = curr?.relationships?.find(
           (relationship: any) => relationship.type === 'cover_art'
@@ -42,22 +44,26 @@ export class MangaDex extends MangaService {
     const config: AxiosRequestConfig = {
       method: 'get',
       baseURL: BASE_URL,
-      url: `/manga/${id}/feed?includes[]=scanlation_group&includes[]=externalUrl`,
+      url: `/manga/${id}/feed?includes[]=scanlation_group&includes[]=externalUrl&limit=500`,
     };
     try {
       const response = await axios(config);
       const { data }: typeof MangaDexMockGetChapters = response.data;
+
+      // TODO: figure out why curr.relationships.find does not work with data's typedef
       return data.map((curr: any) => ({
         id: curr.id,
-        title: curr.attributes.title,
-        scanlationAuthor: curr.relationships.find(
-          (relationship: any) => relationship.type === 'scanlation_group'
-        ).attributes.name,
+        title: curr?.attributes?.title,
+        scanlationAuthor: curr?.relationships?.find(
+          (relationship: any) => relationship?.type === 'scanlation_group'
+        )?.attributes?.name,
       }));
     } catch (error) {
       console.error('MangaDex::getChapters error:  ', error);
       return [];
     }
   }
-  static async getPages(id: string) {}
+  static async getPages(id: string) {
+    return [];
+  }
 }
