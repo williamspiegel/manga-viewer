@@ -6,6 +6,7 @@ import { ReactComponent as HomeIcon } from './assets/svg/home.svg';
 import Browse from './containers/browse/Browse';
 import Home from './containers/home/Home';
 import MangaDetail from './containers/mangaDetail/MangaDetail';
+import MangaViewer from './containers/mangaViewer/MangaViewer';
 import Settings from './containers/settings/Settings';
 
 // Set up a ReactLocation instance
@@ -24,6 +25,7 @@ export default function Routing() {
         { path: 'settings', element: <Settings /> },
         { path: 'browse', element: <Browse /> },
         { path: '/mangaDetail', element: <MangaDetail /> },
+        { path: 'viewer', element: <MangaViewer /> },
       ]}
     >
       <Outlet />

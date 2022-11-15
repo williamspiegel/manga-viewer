@@ -24,6 +24,7 @@ export default function ChaptersList({ chapters = [], className = '' }: Props) {
     );
   };
   return (
+    // TODO: figure out why w-full does not work for className
     <AutoSizer className={className} style={{ width: '100%' }}>
       {({ width, height }) => (
         <List
