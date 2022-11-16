@@ -3,6 +3,7 @@ import { MangaService } from '../../MangaService';
 
 import MangaDexMockData from './MangaDexMockData.json';
 import MangaDexMockGetChapters from './MangaDexMockGetChapters.json';
+import MangaDexMockGetPages from './MangaDexMockGetPages.json';
 
 const BASE_URL = 'https://api.mangadex.org';
 const BASE_URL_CDN = 'https://uploads.mangadex.org';
@@ -64,6 +65,21 @@ export class MangaDex extends MangaService {
     }
   }
   static async getPages(id: string) {
-    return [];
+    const config: AxiosRequestConfig = {
+      method: 'get',
+      baseURL: BASE_URL,
+      url: `https://api.mangadex.org/at-home/server/${id}`,
+    };
+    try {
+      const response = await axios(config);
+      const data: typeof MangaDexMockGetPages = response.data;
+
+      return data.chapter.data.map(
+        (curr) => `${BASE_URL_CDN}/data/${data.chapter.hash}/${curr}`
+      );
+    } catch (error) {
+      console.error('MangaDex::getPages error:  ', error);
+      return [];
+    }
   }
 }
