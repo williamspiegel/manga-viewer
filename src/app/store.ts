@@ -1,11 +1,13 @@
 import { Action, configureStore, ThunkAction } from '@reduxjs/toolkit';
 import { mangaDetailReducer } from '../containers/mangaDetail/mangaDetailSlice';
+import { mangaViewerReducer } from '../containers/mangaViewer/mangaViewerSlice';
 import { settingsReducer } from '../containers/settings/settingsSlice';
 
 export const store = configureStore({
   reducer: {
     settings: settingsReducer,
     mangaDetail: mangaDetailReducer,
+    mangaViewer: mangaViewerReducer,
   },
 });
 
