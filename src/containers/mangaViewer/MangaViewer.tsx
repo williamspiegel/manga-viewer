@@ -1,5 +1,6 @@
 import { useQuery } from '@tanstack/react-query';
 import { useSelector } from 'react-redux';
+import { Keyboard, Navigation, Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { MangaDex } from '../../services/sites/MangaDex/MangaDex';
 // Import Swiper styles
@@ -17,10 +18,20 @@ export default function MangaViewer({}: Props) {
   return isLoading ? (
     <></>
   ) : (
-    <Swiper className='h-1/2'>
+    <Swiper
+      keyboard={{
+        enabled: true,
+      }}
+      slidesPerView={1}
+      pagination={{
+        type: 'fraction',
+      }}
+      navigation={true}
+      modules={[Keyboard, Pagination, Navigation]}
+    >
       {data?.map((curr) => (
-        <SwiperSlide className='object-contain'>
-          <img src={curr} alt={curr} />
+        <SwiperSlide className='object-contain self-center '>
+          <img src={curr} alt={curr} className='w-full' />
         </SwiperSlide>
       ))}
     </Swiper>
