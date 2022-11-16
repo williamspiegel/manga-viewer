@@ -1,6 +1,8 @@
 import { Link } from '@tanstack/react-location';
+import { useDispatch } from 'react-redux';
 import AutoSizer from 'react-virtualized-auto-sizer';
 import { VariableSizeList as List } from 'react-window';
+import { setChapterId } from '../containers/mangaViewer/mangaViewerSlice';
 import { Chapter } from '../services/MangaService';
 
 type Props = { chapters: Chapter[]; className?: string };
@@ -8,13 +10,15 @@ type Props = { chapters: Chapter[]; className?: string };
 export default function ChaptersList({ chapters = [], className = '' }: Props) {
   //TODO: add header prop
   const Row = ({ index, style }: { index: number; style: Object }) => {
+    const dispatch = useDispatch();
+
     const { id, title, scanlationAuthor = '' } = chapters[index];
 
     return (
       <Link
         to='/viewer'
         onClick={() => {
-          //TODO: viewer implementation
+          dispatch(setChapterId(id));
         }}
       >
         <div className='p-1' key={index} data-index={index} style={style}>
