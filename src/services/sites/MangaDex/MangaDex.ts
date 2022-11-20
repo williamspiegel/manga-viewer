@@ -7,16 +7,9 @@ import MangaDexMockGetPages from './MangaDexMockGetPages.json';
 
 const BASE_URL = 'https://api.mangadex.org';
 const BASE_URL_CDN = 'https://uploads.mangadex.org';
-
-const headers = {
-  'Access-Control-Allow-Origin': '*',
-  Accept: 'application/json',
-  'Content-Type': 'application/json',
-};
 export class MangaDex extends MangaService {
   static async getMangaList(query: string) {
     const config: AxiosRequestConfig = {
-      headers,
       method: 'get',
       baseURL: BASE_URL,
       url: `/manga?title=${query}&limit=100&includes[]=cover_art&includes[]=chapter&includes[]=author`,
@@ -50,7 +43,6 @@ export class MangaDex extends MangaService {
   }
   static async getChapters(id: string): Promise<Chapter[]> {
     const config: AxiosRequestConfig = {
-      headers,
       method: 'get',
       baseURL: BASE_URL,
       url: `/manga/${id}/feed?includes[]=scanlation_group&includes[]=externalUrl&limit=500`,
@@ -76,7 +68,6 @@ export class MangaDex extends MangaService {
   }
   static async getPages(id: string) {
     const config: AxiosRequestConfig = {
-      headers,
       method: 'get',
       baseURL: BASE_URL,
       url: `https://api.mangadex.org/at-home/server/${id}`,
