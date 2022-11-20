@@ -17,7 +17,7 @@ const MangaCovers = ({ mangaEntries, className = '' }: PropTypes) => {
       spaceBetween={10}
       navigation={true}
       virtual
-      className='w-full'
+      className={'w-full ' + className}
       modules={[Virtual, Navigation]}
     >
       {mangaEntries.map((slideContent, index) => {
