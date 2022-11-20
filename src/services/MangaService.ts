@@ -19,11 +19,19 @@ export type Chapter = {
   // ID of chapter
   id: string;
 
-  // Title of chapter (please prepend volume and chapter here if available)
-  title: string;
-
   // scanlationAuthor (if required by API ToS)
   scanlationAuthor?: string;
+
+  // NOTE: either the title or volume + chapter must be passed in (or both)
+
+  // Title of chapter (please prepend volume and chapter here if available)
+  title?: string;
+
+  // Volume chapter belongs to (required if passing in an empty title)
+  volume?: number;
+
+  // Chapter number
+  chapter?: number;
 };
 
 export abstract class MangaService {

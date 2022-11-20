@@ -12,7 +12,13 @@ export default function ChaptersList({ chapters = [], className = '' }: Props) {
   const Row = ({ index, style }: { index: number; style: Object }) => {
     const dispatch = useDispatch();
 
-    const { id, title, scanlationAuthor = '' } = chapters[index];
+    const {
+      id,
+      title,
+      scanlationAuthor = '',
+      volume,
+      chapter,
+    } = chapters[index];
 
     return (
       <Link
@@ -22,7 +28,9 @@ export default function ChaptersList({ chapters = [], className = '' }: Props) {
         }}
       >
         <div className='p-1' key={index} data-index={index} style={style}>
-          <text>{title}</text>
+          <p>{`${volume ? `Volume ${volume}` : ''} ${
+            chapter ? `Chapter ${chapter}` : ''
+          }${title ? ': ' + title : ''}`}</p>
         </div>
       </Link>
     );

@@ -1,5 +1,5 @@
 import axios, { AxiosRequestConfig } from 'axios';
-import { MangaService } from '../../MangaService';
+import { Chapter, MangaService } from '../../MangaService';
 
 import MangaDexMockData from './MangaDexMockData.json';
 import MangaDexMockGetChapters from './MangaDexMockGetChapters.json';
@@ -41,7 +41,7 @@ export class MangaDex extends MangaService {
       return [{ id: '', title: '', coverURL: '', author: '', description: '' }];
     }
   }
-  static async getChapters(id: string) {
+  static async getChapters(id: string): Promise<Chapter[]> {
     const config: AxiosRequestConfig = {
       method: 'get',
       baseURL: BASE_URL,
@@ -58,6 +58,8 @@ export class MangaDex extends MangaService {
         scanlationAuthor: curr?.relationships?.find(
           (relationship: any) => relationship?.type === 'scanlation_group'
         )?.attributes?.name,
+        volume: curr?.attributes?.volume,
+        chapter: curr?.attributes?.chapter,
       }));
     } catch (error) {
       console.error('MangaDex::getChapters error:  ', error);
