@@ -1,5 +1,4 @@
 import { useQuery } from '@tanstack/react-query';
-import { useTranslation } from 'react-i18next';
 import { useSelector } from 'react-redux';
 import ChaptersList from '../../components/ChaptersList';
 import { MangaDex } from '../../services/sites/MangaDex/MangaDex';
@@ -7,7 +6,6 @@ import { MangaDex } from '../../services/sites/MangaDex/MangaDex';
 type PropTypes = {};
 
 const MangaDetail = (props: PropTypes) => {
-  const { t } = useTranslation();
   const { coverURL, title, id, description, author } = useSelector(
     (state: any) => state.mangaDetail.mangaEntry
   );

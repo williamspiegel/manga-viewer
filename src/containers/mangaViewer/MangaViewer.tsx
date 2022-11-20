@@ -8,9 +8,8 @@ import { useState } from 'react';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-type Props = {};
 
-export default function MangaViewer({}: Props) {
+export default function MangaViewer() {
   const chapterId = useSelector((state: any) => state.mangaViewer.chapterId);
   const [uiVisible, setUiVisible] = useState(true);
 

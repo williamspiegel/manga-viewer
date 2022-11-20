@@ -15,7 +15,7 @@ export default function ChaptersList({ chapters = [], className = '' }: Props) {
     const {
       id,
       title,
-      scanlationAuthor = '',
+      // scanlationAuthor = '',
       volume,
       chapter,
     } = chapters[index];
